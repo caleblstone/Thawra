@@ -1,0 +1,423 @@
+---
+---
+$base-black: #2A2A2A;
+$base-white: #EBEBEB;
+$highlight-color: #DFF8DF;
+$link-color: #0BB11E;
+$base-red: #F45959;
+$body-text-line-height: 1.5em;
+
+@font-face {
+    font-family: 'Gravity';
+    src: url('/assets/fonts/Gravity.woff2') format('woff2'),
+         url('/assets/fonts/Gravity.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Social';
+    src: url('/assets/fonts/Social.woff2') format('woff2'),
+         url('/assets/fonts/Social.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+html, body{
+    margin: 0px;
+    padding: 0px;
+    background-color: $base-white;
+    font-family: 'Social';
+    color: $base-black;
+}
+
+#landingContainer{
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    grid-template-rows: auto 1fr;
+}
+
+header{
+    
+  
+
+    #title {
+        display: flex;
+        
+        
+        align-items: center;
+        width: calc(100vw - 48px);
+        padding: 24px;
+
+        a{
+            text-decoration: none;
+            color: $base-black;
+        }
+        a:hover{
+            text-decoration: none;
+            color: $link-color;
+        }
+        
+        h1{
+            margin: 0px;
+            font-family: "Gravity";
+            font-stretch: condensed;
+        }
+        
+    }
+    .left {
+        flex-direction: row;
+        justify-content: flex-start;
+
+        h4{
+            margin: 0px;
+            margin-left: 16px;
+            font-weight: 100;
+        }
+
+    }
+    .center {
+        flex-direction: column;
+        justify-content: center;
+
+        h4{
+            margin: 0px;
+        }
+    }
+}
+
+#landing-content{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+
+    p{
+        font-size: 16px;
+        line-height: $body-text-line-height;
+        max-width: 560px;
+        margin-bottom: 20vh;
+    }
+}
+
+#episodeList{
+    
+    a{
+        text-decoration: none;
+        color: $base-black;
+    }
+    
+    .episode-item{
+        display: grid;
+        grid-template-columns: auto 1fr 1fr 1fr;
+        column-gap: 16px;
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+    .episode-item:hover{
+        background-color: $highlight-color;
+    }
+    
+    
+}
+
+#episodeContainer{
+    width: 100vw;
+    // overflow: hidden;
+    display: grid;
+    grid-template-rows: auto 1fr;
+    
+    
+    #sliderNavBar{
+        position: sticky;
+        top: 0px;
+
+        display: flex;
+        flex-wrap: nowrap;
+        background-color: $base-black;
+        padding-left: 24px;
+        overflow-x: scroll;
+        overflow-y: hidden;
+        transition: height 0.3s ease;
+        
+
+        .sliderNavItem{
+            // width: 20vw;
+            padding: 16px;
+            padding-left: 0px;
+            padding-right: 32px;
+            padding-bottom: 0px;
+            color: $base-white;
+            cursor: pointer;
+            opacity: .5;
+            transition: opacity 0.3s ease;
+            flex-shrink: 0;
+            overflow: hidden;
+            height: fit-content;
+            
+            .episodeTitle{
+                margin-bottom: 16px;
+            }
+
+            .description{
+                display: none;
+            }
+        }
+        .sliderNavItem:hover{
+            opacity: 1;
+        }
+        .active{
+            opacity: 1;
+        }
+        
+        p{
+            color: $base-white;
+            margin: 0px;
+            line-height: $body-text-line-height;
+            
+        }
+    }
+
+    #sliderNavBar:hover {
+        .description {
+            display: block;
+        }
+    }
+
+    #episodeContent{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        height: fit-content;
+
+        .leftColumn{
+            height: 50vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding-left: 24px;
+            padding-top: 24px;
+
+            .episodeInfo{
+                h1{
+                    font-size: 48px;
+                    font-family: 'Gravity';
+                    font-style: italic;
+                    font-stretch: condensed;
+                    margin: 0px;
+                    margin-left: -4px;
+                }
+                h6{
+                    font-size: 12px;
+                    margin: 0px;
+                    font-weight: 100;
+                   
+                }
+                p{
+                    margin-top: 24px;
+                }
+            }
+            .player {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin-top: 16px;
+                border: #0BB11E dashed 1px;
+
+                .controls {
+                    display: flex;
+                    align-items: center;
+                    gap: 10px; // Space between controls
+                    width: 100%;
+
+                    button {
+                        padding: 8px;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        
+                        background-color: none; // Background color
+                        cursor: pointer; // Change cursor to pointer
+                        border: none; 
+
+                        img{
+                            width: 32px;
+                            height: 32px;
+                        }
+                       
+                    }
+
+                    input[type="range"] {
+                        -webkit-appearance: none; /* Remove default styling in WebKit browsers */
+                        width: 100%; /* Full width */
+                        height: 4px; /* Height of the track */
+                        background: $base-black; /* Track color */
+                        border-radius: 5px; /* Rounded corners */
+                        outline: none; /* Remove outline */
+                        opacity: 0.7; /* Slightly transparent */
+                        transition: opacity 0.2s; /* Smooth transition for opacity */
+                        
+
+                        &:hover {
+                            opacity: 1; /* Fully opaque on hover */
+                        }
+
+                        /* Style the thumb (the draggable part) */
+                        &::-webkit-slider-thumb {
+                            -webkit-appearance: none; /* Remove default styling */
+                            appearance: none; /* Remove default styling */
+                            width: 20px; /* Width of the thumb */
+                            height: 20px; /* Height of the thumb */
+                            border-radius: 50%; /* Make it circular */
+                            background: $link-color; /* Thumb color */
+                            border: none;
+                            cursor: pointer; /* Change cursor to pointer */
+                        }
+
+                        &::-moz-range-thumb {
+                            width: 20px; /* Width of the thumb */
+                            height: 20px; /* Height of the thumb */
+                            border-radius: 50%; /* Make it circular */
+                            background: $link-color; /* Thumb color */
+                            cursor: pointer; /* Change cursor to pointer */
+                        }
+
+                        /* Style the track for Firefox */
+                        &::-moz-range-track {
+                            background: $base-black; /* Track color */
+                            border-radius: 5px; /* Rounded corners */
+                            border: 0px solid rgba(0, 0, 0, 0);
+                        }
+
+                        /* Style the track for WebKit browsers */
+                        &::-webkit-slider-runnable-track {
+                            background: $link-color; /* Track color */
+                            border-radius: 5px; /* Rounded corners */
+                        }
+                    }
+
+                    #currentTime, #duration {
+                        padding-right: 8px;
+                        color: $base-black;
+                        opacity: .7;
+                        font-size: 12px;
+                    }
+                }
+            }
+        }
+
+        .rightColumn{
+            height: 50vh;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            padding-right: 24px;
+            padding-top: 24px;
+
+            img{
+                max-height: 100%;
+                max-width: 100%;
+                object-fit: contain;
+            }
+        }
+    }
+
+    #reader{
+        width: calc(100vw - 48px);
+        margin: 24px;
+        border: 1px dashed $base-black;
+
+        #readerNav{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            border-bottom: 1px dashed $base-black;
+
+            div{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                padding: 4px;
+                transition: background-color 0.2s ease;
+            }
+            .borderLeft{
+                border-right: 1px dashed $base-black;
+            }
+            div:hover{
+                background-color: $base-black;
+                color: $base-white;
+                cursor: pointer;
+            }
+            .active {
+                background-color: $base-black; // Background color for active item
+                color: $base-white; // Text color for active item
+            }
+        }
+        #readerContent{
+            // padding: 16px;
+            overflow-y: scroll;
+            line-height: $body-text-line-height;
+            display: flex;
+            justify-content: center;
+
+            p{
+                margin-top: 0px;
+            }
+
+            #discussionQuestions{
+               width: 40%;
+            }
+
+            #readerText{
+                width: 100%;
+                
+                .readerGrid{
+                    width: 100%;
+                    a{
+                        width: 100%;
+                    }
+                    
+                    div{
+                        // width: fit-content;
+                        display: grid;
+                        grid-template-columns: 1fr 1fr 1fr 1fr;
+                        padding-top: 8px;
+                        padding-bottom: 8px;
+                    }
+                    .center{
+                        display: flex;
+                        justify-content: center;
+                    }
+                    .end{
+                        display: flex;
+                        justify-content: flex-end;
+                        color: $base-red;
+                    }
+                   
+                    div.readingItem:nth-child(even) {
+                        background-color: white; // Background color for even children
+                    }
+                    div.readingItem:nth-child(even):hover {
+                        background-color: $highlight-color; // Background color for even children
+                        cursor: pointer;
+                    }
+                    .readingItem{
+                        padding-left: 16px;
+                        padding-right: 16px;
+                    }
+                    .readingItem:hover{
+                        background-color: $highlight-color;
+                        cursor: pointer;
+                    }
+                }
+                
+            }
+
+            #transcriptionText{
+
+            }
+        }
+    }
+    
+}

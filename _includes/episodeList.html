@@ -1,0 +1,13 @@
+<div id="episodeList">
+    {% for episode in site.posts reversed %}
+    <a href="{{ episode.url }}">
+        <div class="episode-item">
+            <div><p>{{ episode.number }}</p></div>
+            <div><p><em>{{ episode.title }}</em></p></div>
+            <div><p>{{ episode.tags }}</p></div>
+            <div><p>{{ episode.description }}</p></div>
+            
+        </div>
+    </a>
+    {% endfor %}
+</div>
