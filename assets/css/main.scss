@@ -279,6 +279,7 @@ header{
                             background: $link-color; /* Thumb color */
                             border: none;
                             cursor: pointer; /* Change cursor to pointer */
+                            transform: translateY(-8px);
                         }
 
                         &::-moz-range-thumb {
@@ -298,7 +299,8 @@ header{
 
                         /* Style the track for WebKit browsers */
                         &::-webkit-slider-runnable-track {
-                            background: $link-color; /* Track color */
+                            background: black; /* Track color */
+                            height: 4px;
                             border-radius: 5px; /* Rounded corners */
                         }
                     }

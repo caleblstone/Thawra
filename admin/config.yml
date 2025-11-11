@@ -34,7 +34,7 @@ collections:
         required: true
         fields:
           - { label: "Question", name: "question", widget: "string", required: true }
-      - {label: "Spotify Link", name: "spotifyLink", widget: "string", required: false }
+      - {label: "Spotify Link", name: "spotifyLink", widget: "string", required: true }
       - { label: "Apple Link", name: "appleLink", widget: "string", required: true }
       - { label: "Audio Link", name: "audioLink", widget: "string", required: true }
       - { label : "Image", name: "image", widget: "image", required: false }
