@@ -42,15 +42,4 @@ document.addEventListener('DOMContentLoaded', function() {
         navItems[0].classList.add('active'); // Set the first nav item as active
     }
 
-    console.log(navItems)
-
-    navItems.forEach(item => {
-    item.addEventListener('click', function() {
-        const target = this.getAttribute('data-target'); // Get the target from data attribute
-        console.log(`Clicked on: ${this.textContent}, Target: ${target}`); // Debug log
-        showSection(target); // Show the corresponding section
-        removeActiveClass(); // Remove active class from all items
-        this.classList.add('active'); // Add active class to the clicked item
-    });
-});
 });

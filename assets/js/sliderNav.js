@@ -1,13 +1,20 @@
 document.addEventListener('DOMContentLoaded', function() {
     const sliderNavBar = document.getElementById('sliderNavBar');
     const sliderNavItems = document.querySelectorAll('.sliderNavItem');
+    const sliderDescription = document.querySelectorAll('.description');
+    let isMouseOver = true;
+    let trigger = false;
 
     function setInitialHeight() {
         const currentHeight = sliderNavBar.offsetHeight; 
         sliderNavBar.style.height = `${currentHeight}px`; 
-        sliderNavItems.forEach(item => {
-            const currentWidth = item.offsetWidth; 
-            item.style.width = `${currentWidth}px`; 
+        requestAnimationFrame(() => {
+            setTimeout(() => {
+                sliderNavItems.forEach(item => {
+                    const currentWidth = item.offsetWidth;
+                    item.style.width = `${currentWidth - 32 }px`;
+                });
+            }, 0);
         });
         return currentHeight;
     }
@@ -25,12 +32,34 @@ document.addEventListener('DOMContentLoaded', function() {
         return maxHeight;
     }
 
+    function toggle() {
+        setTimeout(() => {
+            isMouseOver = false;
+            console.log(isMouseOver);
+        }, 1);
+    }
+    toggle();
+
+
+
     sliderNavBar.addEventListener('mouseenter', function() {
-        const height = calcHeight(); 
-        sliderNavBar.style.height = height + 16 + "px"; // Adjust for padding if needed
+        if (isMouseOver == false){
+            console.log('not hovered');
+            
+            sliderDescription.forEach(desc => {
+                desc.style.display = 'block';
+            });
+            const height = calcHeight(); 
+            sliderNavBar.style.height = height + 16 + "px"; // Adjust for padding if needed    
+        }
     });
 
+
+
+    
+
     sliderNavBar.addEventListener('mouseleave', function() {
+        isMouseOver = false;
         sliderNavBar.style.height = originalHeight + "px"; // Reset to initial height
     });
 
