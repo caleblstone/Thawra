@@ -18,67 +18,71 @@ document.addEventListener('DOMContentLoaded', function() {
         });
         return currentHeight;
     }
-    const originalHeight = setInitialHeight();
 
-    function calcHeight() {
-        let maxHeight = 0; // Initialize maxHeight
+    // Wait for fonts to load before setting initial height/widths
+    function initSliderNav() {
+        const originalHeight = setInitialHeight();
 
-        sliderNavItems.forEach(item => {
-            const itemHeight = item.offsetHeight; // Get the height of the current sliderNavItem
-            if (itemHeight > maxHeight) {
-                maxHeight = itemHeight; // Update maxHeight if the current item is taller
+        function calcHeight() {
+            let maxHeight = 0; // Initialize maxHeight
+
+            sliderNavItems.forEach(item => {
+                const itemHeight = item.offsetHeight; // Get the height of the current sliderNavItem
+                if (itemHeight > maxHeight) {
+                    maxHeight = itemHeight; // Update maxHeight if the current item is taller
+                }
+            });
+            return maxHeight;
+        }
+
+        function toggle() {
+            setTimeout(() => {
+                isMouseOver = false;
+                console.log(isMouseOver);
+            }, 100);
+        }
+        toggle();
+
+        sliderNavBar.addEventListener('mouseenter', function() {
+            if (isMouseOver == false){
+                console.log('not hovered');
+                
+                sliderDescription.forEach(desc => {
+                    desc.style.display = 'block';
+                });
+                const height = calcHeight(); 
+                sliderNavBar.style.height = height + 16 + "px"; // Adjust for padding if needed    
             }
         });
-        return maxHeight;
-    }
 
-    function toggle() {
-        setTimeout(() => {
+        sliderNavBar.addEventListener('mouseleave', function() {
             isMouseOver = false;
-            console.log(isMouseOver);
-        }, 100);
-    }
-    toggle();
-
-
-
-    sliderNavBar.addEventListener('mouseenter', function() {
-        if (isMouseOver == false){
-            console.log('not hovered');
-            
-            sliderDescription.forEach(desc => {
-                desc.style.display = 'block';
-            });
-            const height = calcHeight(); 
-            sliderNavBar.style.height = height + 16 + "px"; // Adjust for padding if needed    
-        }
-    });
-
-
-
-    
-
-    sliderNavBar.addEventListener('mouseleave', function() {
-        isMouseOver = false;
-        sliderNavBar.style.height = originalHeight + "px"; // Reset to initial height
-    });
-
-    // Handle click events on sliderNavItems
-    sliderNavItems.forEach(item => {
-        item.addEventListener('click', function(event) {
-            // Store the current scroll position in sessionStorage
-            const scrollPosition = sliderNavBar.scrollLeft; // Use scrollLeft for horizontal scroll
-            sessionStorage.setItem('sliderNavScrollPosition', scrollPosition);
-
-            // Allow the default behavior to reload the page
-            // You can also navigate to a new URL if needed
+            sliderNavBar.style.height = originalHeight + "px"; // Reset to initial height
         });
-    });
 
-    // Restore scroll position after the page reloads
-    const storedScrollPosition = sessionStorage.getItem('sliderNavScrollPosition');
-    if (storedScrollPosition) {
-        sliderNavBar.scrollLeft = storedScrollPosition; // Restore the scroll position
-        sessionStorage.removeItem('sliderNavScrollPosition'); // Clear the stored value
+        // Handle click events on sliderNavItems
+        sliderNavItems.forEach(item => {
+            item.addEventListener('click', function(event) {
+                // Store the current scroll position in sessionStorage
+                const scrollPosition = sliderNavBar.scrollLeft; // Use scrollLeft for horizontal scroll
+                sessionStorage.setItem('sliderNavScrollPosition', scrollPosition);
+
+                // Allow the default behavior to reload the page
+                // You can also navigate to a new URL if needed
+            });
+        });
+
+        // Restore scroll position after the page reloads
+        const storedScrollPosition = sessionStorage.getItem('sliderNavScrollPosition');
+        if (storedScrollPosition) {
+            sliderNavBar.scrollLeft = storedScrollPosition; // Restore the scroll position
+            sessionStorage.removeItem('sliderNavScrollPosition'); // Clear the stored value
+        }
+    }
+
+    if (document.fonts && document.fonts.ready) {
+        document.fonts.ready.then(initSliderNav);
+    } else {
+        window.addEventListener('load', initSliderNav);
     }
 });
