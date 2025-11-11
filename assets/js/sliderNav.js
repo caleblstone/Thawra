@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
         setTimeout(() => {
             isMouseOver = false;
             console.log(isMouseOver);
-        }, 1);
+        }, 100);
     }
     toggle();
 
