@@ -16,6 +16,26 @@ readings:
     url: https://learnpalestine.qeh.ox.ac.uk/learn
     author: Karma Nabulsi and Abdel Razzaq Takriti
     type: Online resource
+  - url: https://drive.google.com/file/d/1PFEizA13cJT2VrTn4CbuvZQUQnAdeHeA/view
+    title: Resistance, Why
+    year: "1971"
+    type: Documentary
+    author: " Christian Ghazi"
+discussionQuestions:
+  - question: "This moment is the explosion of radical and mass-politically oriented
+      ideologies. What were the broad historical conditions of possibility for
+      the founding of ideologies like Movement of Arab Nationalists, and their
+      spread?  "
+  - question: What were key regional hubs for the development and spread of that
+      ideology? Why did these places become important sites of ideological and
+      political development?
+  - question: "What are the essential features of the Movement of Arab Nationalists
+      ideology, and what makes it different from the Ba’ath, or the communists?
+      What is the theory of the separation of stages? What sort of political
+      alliances would such a theory prescribe? "
+  - question: What are the concrete political practices of groups like these at this
+      moment? What are the kinds of alliances they seek out and develop most
+      vigorously?
 spotifyLink: https://open.spotify.com/episode/6HUI4eFSObMVtG8clagO5O?si=de15be92fcd24ae4
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664741798
 audioLink: https://content.blubrry.com/thedig/The_Dig-EP_444-Takriti.mp3
