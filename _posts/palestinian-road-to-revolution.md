@@ -1,6 +1,6 @@
 ---
 layout: episode
-number: 9
+number: 1
 title: "Palestinian Road to Revolution "
 description: " “Palestine on the Road to Revolution” covers the creation of a
   Palestinian national liberation movement throughout the 1950s by a people
