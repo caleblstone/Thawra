@@ -12,7 +12,9 @@ description: " “Palestine on the Road to Revolution” covers the creation of 
   liberating Palestine. This is the story of the beginning of the Palestinian
   national liberation movement as we have come to know it today."
 tags:
-  - Palestine
+  - tag1
+  - tag2
+  - tag3
 readings:
   - title: The Palestinian Revolution
     url: https://learnpalestine.qeh.ox.ac.uk/learn
