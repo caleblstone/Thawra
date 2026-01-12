@@ -1,6 +1,6 @@
 ---
 layout: episode
-number: 1
+number: 9
 title: "Palestinian Road to Revolution "
 description: " “Palestine on the Road to Revolution” covers the creation of a
   Palestinian national liberation movement throughout the 1950s by a people
@@ -44,5 +44,5 @@ spotifyLink: https://open.spotify.com/episode/6HUI4eFSObMVtG8clagO5O?si=de15be92
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664741798
 audioLink: https://content.blubrry.com/thedig/The_Dig-EP_444-Takriti.mp3
 image: /assets/images/episode-9-palestinian-road-to-revolution-2.png
-hasTranscript: true
+hasTranscript: false
 ---
