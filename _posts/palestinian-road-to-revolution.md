@@ -44,5 +44,5 @@ spotifyLink: https://open.spotify.com/episode/6HUI4eFSObMVtG8clagO5O?si=de15be92
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664741798
 audioLink: https://content.blubrry.com/thedig/The_Dig-EP_444-Takriti.mp3
 image: /assets/images/episode-9-palestinian-road-to-revolution-2.png
-hasTranscript: false
+hasTranscript: true
 ---
