@@ -21,11 +21,21 @@ readings:
     year: "1993"
     url: https://yplus.ps/wp-content/uploads/2021/01/Scholch-Alexander-Palestine-in-Transformation-1856-1882.pdf
     type: Book
+  - title: Ma’loul Celebrates Its Destruction
+    author: Michel Khleifi
+    year: "1984"
+    type: Documentary / Short Film
+    url: https://www.criterionchannel.com/ma-loul-celebrates-its-destruction
   - title: "Imperial Identities: Stereotyping, Prejudice,and Race in Colonial Algeria"
     author: Patricia Lorcin
     url: https://archive.org/details/imperialidentiti0000lorc
     year: "1995"
     type: Book
+  - title: The Land
+    author: Yousssef Chahine
+    year: "1971"
+    type: Film
+    url: https://www.criterionchannel.com/videos/the-land
   - title: The Striking Cabbies of Cairo and Other Stories
     author: John Chalcraft
     url: https://archive.org/details/strikingcabbieso0000chal
