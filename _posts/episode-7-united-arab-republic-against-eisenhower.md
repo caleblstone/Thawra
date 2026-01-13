@@ -96,5 +96,6 @@ discussionQuestions:
 spotifyLink: https://open.spotify.com/episode/1jMnq4uNitxZeRUQ5o9MBd?si=6b74f43b45a04e22
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664741928
 audioLink: https://content.blubrry.com/thedig/The_Dig-EP_441-Takriti.mp3
+image: /assets/images/episode-7-united-arab-republic-against-eisenhower-١.jpg
 hasTranscript: false
 ---
