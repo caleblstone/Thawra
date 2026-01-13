@@ -53,6 +53,20 @@ readings:
     year: "2010"
     type: "Book "
     url: https://indiepubs.com/products/the-woman-from-tantoura?_pos=1&_sid=48ad7af48&_ss=r
+  - title: Class Conflict in Egypt, 1945-71
+    author: "Mahmoud Hussein "
+    url: https://www.abebooks.com/9780853452331/Class-Conflict-Egypt-1945-1970-Hussein-0853452334/plp
+    type: Book
+    year: "1974"
+  - url: https://www.madamasr.com/en/2023/03/25/feature/economy/reading-turath-in-ahmed-sadiq-saads-texts/
+    title: Reading turath in Ahmed Sadiq Saad’s texts
+    author: Nasr Hamid Abu Zeid
+    type: Article
+    year: "2023"
+  - url: https://www.palquest.org/en/biography/14267/muin-bseiso
+    title: Biography of Muin Bseiso
+    author: The Interactive Encyclopedia of the Palestine Question
+    type: Article
 discussionQuestions:
   - question: "The Nakba was a terrible tragedy for the Palestinian people, though
       it also had dramatic regional implications. How did the defeat of Arab
