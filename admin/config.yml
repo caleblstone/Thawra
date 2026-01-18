@@ -7,7 +7,7 @@ media_folder: "assets/images"
 collections:
   - name: "episodes"
     label: "Episodes" 
-    folder: "_posts/"
+    folder: "_episodes/"
     create: true
     slug: "{{slug}}"
     editor:
