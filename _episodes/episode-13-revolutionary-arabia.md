@@ -1,7 +1,7 @@
 ---
 layout: episode
 number: 13
-title: "Episode 13: Revolutionary Arabia "
+title: "Revolutionary Arabia "
 description: "“Revolutionary Arabia” chronicles the armed left-wing
   revolutionary movements that challenged British imperial power across Southern
   Arabia, from the National Liberation front seizing power in South Yemen to the
