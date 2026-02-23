@@ -1,7 +1,7 @@
 ---
 layout: episode
 number: 9
-title: "Episode 9: Palestinian Road to Revolution "
+title: "Palestinian Road to Revolution "
 description: " “Palestine on the Road to Revolution” covers the creation of a
   Palestinian national liberation movement throughout the 1950s by a people
   dispersed by the Nakba: organizations, alliances, and theories of change
