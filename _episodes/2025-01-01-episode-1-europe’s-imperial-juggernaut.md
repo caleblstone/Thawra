@@ -1,7 +1,7 @@
 ---
 layout: episode
 number: 1
-title: "Episode 1: Europe’s Imperial Juggernaut"
+title: Europe’s Imperial Juggernaut
 description: "The first episode of our series establishes the development of
   European imperialism in the Arab world from the late 18th through early 20th
   centuries, the rise of constitutionalist movements  that challenged
