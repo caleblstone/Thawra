@@ -11,10 +11,7 @@ description: " “Palestine on the Road to Revolution” covers the creation of 
   focusing on the idea of launching an armed revolution as the pathway to
   liberating Palestine. This is the story of the beginning of the Palestinian
   national liberation movement as we have come to know it today."
-tags:
-  - tag1
-  - tag2
-  - tag3
+tags: []
 readings:
   - title: The Palestinian Revolution
     url: https://learnpalestine.qeh.ox.ac.uk/learn
