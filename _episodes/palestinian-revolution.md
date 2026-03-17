@@ -9,10 +9,7 @@ description: "This episode covers the rise of the Palestinian Revolution and
   Palestinian people in a full-scale mobilization for their liberation. Also:
   Ba’athists Ahmad Hasan al-Bakr and Saddam Hussein seized power in Iraq, as did
   Muammar Gaddafi’s Free Officers in Libya. "
-tags:
-  - tag1
-  - tag2
-  - tag3
+tags: []
 readings:
   - url: https://learnpalestine.qeh.ox.ac.uk/
     title: The Palestinian Revolution
