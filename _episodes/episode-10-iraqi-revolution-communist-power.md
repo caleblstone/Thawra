@@ -11,10 +11,6 @@ shortDescription: "We learn the story of Iraq’s 1958 July Revolution: a Free
   Officers’ coup overthrew the imperialist-aligned Hashemite monarchy and
   brought nationalist Abdul-Karim Qasim to power alongside a surging Communist
   Party."
-tags:
-  - tag1
-  - tag2
-  - tag3
 readings:
   - url: https://bnk.institutkurde.org/images/pdf/TGHVQ3DFRA.pdf
     title: The Old Social Classes and the Revolutionary Movements of Iraq

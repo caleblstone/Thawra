@@ -14,10 +14,6 @@ shortDescription: "“Revolutionary Arabia” chronicles the armed left-wing
   Arabia, from the National Liberation front seizing power in South Yemen to the
   Dhufari revolutionaries in Oman waging a liberation war against the British
   and the sultan."
-tags:
-  - tag1
-  - tag2
-  - tag3
 readings:
   - title: "Monsoon Revolution: Republicans, Sultans, and Empires in Oman, 1965-1976"
     author: "Abdel Razzaq Takriti "
@@ -72,5 +68,6 @@ discussionQuestions:
 spotifyLink: https://open.spotify.com/episode/3XXXeK8t8OWdPuHV9RT1Xi?si=480852e7381d4294
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664741985
 audioLink: https://content.blubrry.com/thedig/The_Dig-EP_449-Takriti.mp3
+image:
 hasTranscript: false
 ---

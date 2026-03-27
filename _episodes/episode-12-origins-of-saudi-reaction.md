@@ -11,10 +11,6 @@ shortDescription: "Abdel and Dan anatomize Saudi Arabia, a country whose reactio
   US-aligned trajectory was throughout the 1950s and 60s challenged by labor
   strikes, dissident currents, rebellious princes, and an anticolonial oil
   minister."
-tags:
-  - tag1
-  - tag2
-  - tag3
 readings:
   - title: The History of Saudi Arabia
     type: Book

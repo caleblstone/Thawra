@@ -10,10 +10,6 @@ shortDescription: "Laying out the intensification of the Cold War across the Mid
   East–specifically Nasser’s mass political campaign against the Baghdad pact,
   the nationalization of the Suez Canal, and the military and political
   responses it provoked."
-tags:
-  - tag1
-  - tag2
-  - tag3
 readings:
   - title: "Nationalist Voices in Jordan: The Street and the State"
     author: Betty S. Anderson

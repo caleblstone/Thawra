@@ -10,10 +10,6 @@ shortDescription: "This episode lays out a key genealogy of 20th century
   anti-colonialism, forged through the “Great Revolts” in Iraqi, Syria, and
   Palestine, and the parallel birth of a range of ideological colorations: Arab
   nationalism, Islamic resistance, Ba’athism, and communism."
-tags:
-  - tag1
-  - tag2
-  - tag3
 readings:
   - title: "The Making of an Arab Nationalist: Ottomanism and Arabism in the Life
       and Thought of Sati Al-Husri"

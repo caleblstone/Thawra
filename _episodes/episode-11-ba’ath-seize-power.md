@@ -13,10 +13,6 @@ shortDescription: "This episode recounts the destruction of the two giant
   revolutionary projects of 1958: the union of Egypt and Syria under Nasser’s
   United Arab Republic and Iraq’s July Revolution that brought Qasim alongside
   communist allies to power."
-tags:
-  - tag1
-  - tag2
-  - tag3
 readings:
   - title: "The Arab Ba'ath Socialist Party: History, Ideology and Organization"
     author: Kamel S. Abu Jaber

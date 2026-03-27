@@ -12,10 +12,6 @@ description: "This final episode of the main series traces a massive defeat of
 shortDescription: "This final episode of the main series traces a massive defeat of
   the Palestinian Revolution: Israel’s 1982 invasion of Lebanon and the brutal
   siege of Beirut."
-tags:
-  - tag1
-  - tag2
-  - tag3
 readings:
   - title: "Memory for Forgetfulness: August, Beirut, 1982"
     author: Mahmoud Darwish
@@ -74,5 +70,6 @@ discussionQuestions:
 spotifyLink: https://open.spotify.com/episode/0Dcv6vsVQLJhCwmBBiwMFG?si=266c41c9f08a4e08
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664741797
 audioLink: https://content.blubrry.com/thedig/The_Dig-EP_452-Takriti.mp3
+image:
 hasTranscript: false
 ---

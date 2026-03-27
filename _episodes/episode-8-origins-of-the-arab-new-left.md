@@ -12,10 +12,6 @@ shortDescription: "This is a compact introduction to the Movement of Arab
   Nationalists, which in the 1950s built a presence that stretched across the
   region, from Beirut and Jordan to Cairo and the Gulf—becoming a truly powerful
   force in Kuwait."
-tags:
-  - tag1
-  - tag2
-  - tag3
 readings:
   - title: "Revolutionary Transformation in the Arab World: Habash and His Comrades
       from Nationalism to Marxism"

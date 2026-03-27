@@ -16,7 +16,6 @@ shortDescription: "“Palestine on the Road to Revolution” covers the creation
   dispersed by the Nakba: organizations, alliances, and theories of change
   assembled in the universities, cities, and refugee camps surrounding
   Palestine."
-tags: []
 readings:
   - title: The Palestinian Revolution
     url: https://learnpalestine.qeh.ox.ac.uk/learn

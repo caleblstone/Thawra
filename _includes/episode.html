@@ -1,13 +1,12 @@
 <div id="episodeContainer">
-   
-    <div id="sliderNavBar">
 
+    <div id="sliderNavBar">
         {% assign sorted_episodes = site.episodes | sort: "number" %}
         {% for episode in sorted_episodes %}
             <div class="sliderNavItem {% if episode.url == page.url %} active {% endif %}">
                 <a href="{{ episode.url }}">
                     <div class="episodeHeader">
-                        <div><p>Episode {{ episode.number }}:</p> </div>
+                        <div><p>Episode {{ episode.number }}:</p></div>
                         <div class="episodeTitle"><p><em>{{ episode.title }}</em></p></div>
                     </div>
                     <div class="description"><p>{{ episode.shortDescription }}</p></div>
@@ -30,27 +29,22 @@
                     <a href="{{ page.appleLink }}" target="_blank" rel="noopener">Apple Podcasts</a>
                 </div>
                 <div class="player">
-                <audio id="audioPlayer" src="https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_435-Takriti.mp3" preload="metadata"></audio>
-                <div class="controls">
-                    <button id="playPauseBtn" aria-label="Play">
-                        <img id="playPauseIcon" src="/assets/icons/play.svg" alt="Play">
-                    </button>
-                    <span id="currentTime">0:00</span>
-                    <input type="range" id="seekBar" value="0" step="1" min="0">
-                    <span id="duration">0:00</span>
-                    
+                    <audio id="audioPlayer" src="{{ page.audioLink }}" preload="metadata"></audio>
+                    <div class="controls">
+                        <button id="playPauseBtn" aria-label="Play">
+                            <img id="playPauseIcon" src="/assets/icons/play.svg" alt="Play">
+                        </button>
+                        <span id="currentTime">0:00</span>
+                        <input type="range" id="seekBar" value="0" step="1" min="0">
+                        <span id="duration">0:00</span>
+                    </div>
                 </div>
             </div>
-            </div>
-
         </div>
 
         <div class="rightColumn">
-           <img src="https://www.psa.ac.uk/sites/default/files/news/5650136741_208e192368_o_d1784724-d9cd-4ad4-973e-b7fbd8c731e5-prv-min_0.jpg" alt="">
-
+            <img src="{{ page.image }}" alt="{{ page.title }}">
         </div>
-
-        
 
     </div>
 
@@ -62,15 +56,15 @@
             <div class="borderLeft" data-target="readerText">
                 Reader
             </div>
-            <div data-target="transcriptText">
+            <div data-target="transcriptText" {% unless page.hasTranscript %}class="disabled"{% endunless %}>
                 {% if page.hasTranscript == true %}
                 Transcript
                 {% else %}
                 <s>Transcript</s>
                 {% endif %}
             </div>
-
         </div>
+
         <div id="readerContent">
             <div id="discussionQuestions">
                 <ul>
@@ -81,32 +75,25 @@
             </div>
 
             <div id="readerText">
-                
-               <div class="readerGrid">
-                {% for reading in page.readings %}
-                <a href="{{ reading.url }}" target="_blank" rel="noopener"><div class="readingItem">
-                        <div><em>{{ reading.title }}</em></div>
-                        <div>{{ reading.author }}</div>
-                        <div class="center">{{ reading.year }}</div>
-                        <div class="end">{{ reading.type }}</div>
-                </div></a>
-                {% endfor %}
-               
-               </div>
+                <div class="readerGrid">
+                    {% for reading in page.readings %}
+                    <a href="{{ reading.url }}" target="_blank" rel="noopener">
+                        <div class="readingItem">
+                            <div><em>{{ reading.title }}</em></div>
+                            <div>{{ reading.author }}</div>
+                            <div class="center">{{ reading.year }}</div>
+                            <div class="end">{{ reading.type }}</div>
+                        </div>
+                    </a>
+                    {% endfor %}
+                </div>
             </div>
 
             <div id="transcriptText">
-                
-
             </div>
         </div>
-
     </div>
 
-    <div>
-
-
-    </div>
 
 </div>
 

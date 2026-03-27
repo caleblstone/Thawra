@@ -12,7 +12,6 @@ description: "This episode covers the rise of the Palestinian Revolution and
 shortDescription: "This episode covers the rise of the Palestinian Revolution and
   then its explosion after the Arab defeat in the June War of 1967 with the
   Israeli colonial state."
-tags: []
 readings:
   - url: https://learnpalestine.qeh.ox.ac.uk/
     title: The Palestinian Revolution
@@ -95,5 +94,6 @@ discussionQuestions:
 spotifyLink: https://open.spotify.com/episode/0vsi6QOmqr02qsnb7ak3Gu?si=13c0e7ec93b14fa0
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664741984
 audioLink: https://content.blubrry.com/thedig/The_Dig-Ep_451-Takriti.mp3
+image:
 hasTranscript: false
 ---

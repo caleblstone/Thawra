@@ -10,10 +10,6 @@ shortDescription: "Laying out the politics surrounding the Zionist settler colon
   destruction of Palestine, and the ground-shifting event that followed in its
   wake: Nasser’s 1952 Egyptian Free Officers Movement coup, which would set the
   tone for two decades of revolutionary nationalism across the region. "
-tags:
-  - tag1
-  - tag2
-  - tag3
 readings:
   - title: "Egypt: Military Society; the Army Regime, the Left, and Social Change
       under Nasser"

@@ -12,7 +12,6 @@ shortDescription: "We address the Palestinian revolution in Lebanon, Syria, and
   Jordan–leading up to the 1970 conflict that the national movement had with the
   Jordanian state and the violent expulsion of PLO guerillas that followed
   during Black September."
-tags: []
 readings:
   - title: Al-Muqawama al-Filastiniya wa-an-Niẓām al-Urduniyya
     author: "Palestinian Research Centre "
@@ -82,5 +81,6 @@ discussionQuestions:
 spotifyLink: https://open.spotify.com/episode/2SDijvtp9eB6EWyDnJIgR1?si=35e3d95376894c3c
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664741984
 audioLink: https://content.blubrry.com/thedig/The_Dig-Ep_451-Takriti.mp3
+image:
 hasTranscript: false
 ---

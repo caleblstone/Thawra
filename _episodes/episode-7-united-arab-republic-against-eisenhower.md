@@ -12,10 +12,6 @@ shortDescription: "We begin with the US’s Eisenhower Doctrine, which in 1957
   deployment of American combat operations in the region; and end with a local
   political response: the Ba’ath Party driving Syria and Egypt into the United
   Arab Republic, a superstate under Nasser’s rule, in 1958."
-tags:
-  - tag1
-  - tag2
-  - tag3
 readings:
   - title: "Notes From the Minefield: United States Intervention in Lebanon and the
       Middle East, 1945-1958"

@@ -6,10 +6,6 @@ description: "A comprehensive overview of the Middle Eastern Arab state system
   that crystallized with the end of British and French colonial rule. "
 shortDescription: "A comprehensive overview of the Middle Eastern Arab state system
   that crystallized with the end of British and French colonial rule. "
-tags:
-  - tag1
-  - tag2
-  - tag3
 readings:
   - title: "Over-stating the Arab State: Politics and Society in the Middle East,"
     author: Nazih Ayoubi
