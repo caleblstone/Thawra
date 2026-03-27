@@ -24,7 +24,12 @@
                 <h1>{{ page.title }}</h1>
                 <p>{{ page.description }}</p>
             </div>
-            <div class="player">
+            <div class="playerWrapper">
+                <div class="streamingLinks">
+                    <a href="{{ page.spotifyLink }}" target="_blank" rel="noopener">Spotify</a>
+                    <a href="{{ page.appleLink }}" target="_blank" rel="noopener">Apple Podcasts</a>
+                </div>
+                <div class="player">
                 <audio id="audioPlayer" src="https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_435-Takriti.mp3" preload="metadata"></audio>
                 <div class="controls">
                     <button id="playPauseBtn" aria-label="Play">
@@ -36,7 +41,8 @@
                     
                 </div>
             </div>
-            
+            </div>
+
         </div>
 
         <div class="rightColumn">
@@ -56,7 +62,7 @@
             <div class="borderLeft" data-target="readerText">
                 Reader
             </div>
-            <div data-target="transcriptText" {% unless page.hasTranscript %}class="disabled"{% endunless %}>
+            <div data-target="transcriptText">
                 {% if page.hasTranscript == true %}
                 Transcript
                 {% else %}

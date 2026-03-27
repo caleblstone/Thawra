@@ -34,7 +34,7 @@ html, body{
 
 #landingContainer{
     height: 100vh;
-    width: 100vw;
+    width: 100%;
     display: grid;
     grid-template-rows: auto 1fr;
 }
@@ -163,7 +163,7 @@ footer{
 }
 
 #landing-content{
-    width: 100vw;
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -201,7 +201,7 @@ footer{
 }
 
 #episodeContainer{
-    width: 100vw;
+    width: 100%;
     // overflow: hidden;
     display: grid;
     grid-template-rows: auto 1fr;
@@ -280,6 +280,26 @@ footer{
             justify-content: space-between;
             padding-left: 24px;
             padding-top: 24px;
+
+            .playerWrapper {
+                display: flex;
+                flex-direction: column;
+                gap: 4px;
+
+                .streamingLinks {
+                    display: flex;
+                    gap: 12px;
+
+                    a {
+                        font-size: 11px;
+                        text-decoration: none;
+                        color: darkgray;
+                    }
+                    a:hover {
+                        color: $link-color;
+                    }
+                }
+            }
 
             .episodeInfo{
                 h1{
@@ -535,24 +555,47 @@ footer{
         }
     }
 
+    header.siteHeader h4{
+        display: none;
+    }
+
+    header.siteHeader{
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        background-color: $base-white;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        z-index: 100;
+        padding: 12px 24px;
+    }
+
+    #episodeListContainer{
+        padding-top: 60px;
+    }
+
     #landingContainer{
-        width: calc(100vw - 32px);
-        padding-left: 24px;
-        padding-right: 24px;
+        width: 100%;
 
         header{
-            width: calc(100vw - 48px);
+            width: calc(100% - 48px);
             padding-top: 16px;
 
             #title{
-                width: calc(100vw - 32px);
-                padding: 0px
+                width: 100%;
+                padding: 0px;
             }
         }
 
         #landing-content{
-            width: calc(100vw - 32px);
+            width: calc(100% - 48px);
+            padding-left: 24px;
+            padding-right: 24px;
         }
+    }
+
+    #episodeContainer #sliderNavBar{
+        display: none;
     }
 
     #episodeContent {
@@ -636,6 +679,7 @@ footer{
             }
 
             .readingItem{
+                gap: 0px !important;
                 padding: 8px !important;
             }
             // div:nth-child(n){
