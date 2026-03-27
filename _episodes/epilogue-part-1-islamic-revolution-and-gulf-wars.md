@@ -37,6 +37,16 @@ discussionQuestions:
       what marks out its differences?  What framework for you seems most
       appropriate to describe this transition: eclipse, transformation,
       succession, or something else entirely? "
+  - question: "Why did Edward Said call Oslo the Palestinian Verseille? Do you agree
+      with his assessment? What were the consequences of Oslo for the
+      Palestinian national movement? What were the consequences for the region
+      more broadly? "
+  - question: "What were the historical forces that led to a rolling back of
+      left-wing mass politics in the region? Do these seem similar to, or
+      distinct from, what occurs to the left in other parts of the world in this
+      period? "
+  - question: "How does it become possible for the locus of Palestinian resistance
+      to shift back to the occupied territories?  "
 spotifyLink: https://open.spotify.com/episode/4gPECrmYHg9KZP8l6yfe6H?si=a18d1af88010406e
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000668557647
 audioLink: https://content.blubrry.com/thedig/The_Dig-EP_456-Takriti.mp3
