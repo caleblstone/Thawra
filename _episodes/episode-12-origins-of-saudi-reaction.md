@@ -1,19 +1,19 @@
 ---
 layout: episode
 number: 12
-title: "Origins of Saudi Reaction"
+title: Origins of Saudi Reaction
 description: "Abdel and Dan anatomize Saudi Arabia, a country whose reactionary,
   US-aligned trajectory was throughout the 1950s and 60s challenged by labor
   strikes, dissident currents, rebellious princes, and an anticolonial oil
   minister. But, eventually, Saudi royal conservatism won out, and was exported
   across the region. "
-shortDescription: "Abdel and Dan anatomize Saudi Arabia, a country whose reactionary,
-  US-aligned trajectory was throughout the 1950s and 60s challenged by labor
-  strikes, dissident currents, rebellious princes, and an anticolonial oil
-  minister."
+shortDescription: Abdel and Dan anatomize Saudi Arabia, a country whose
+  reactionary, US-aligned trajectory was throughout the 1950s and 60s challenged
+  by labor strikes, dissident currents, rebellious princes, and an anticolonial
+  oil minister.
 readings:
   - title: The History of Saudi Arabia
-    type: Book
+    type: Book (Recommended)
     author: Alexei Vassiliev
     url: https://saqibooks.com/books/saqi/the-history-of-saudi-arabia/
     year: "2000"
@@ -21,12 +21,12 @@ readings:
     title: A History of Saudi Arabia
     author: Madawi al-Rasheed
     year: "2002"
-    type: Book
+    type: Book (Recommended)
   - title: A Counter-revolutionary State
     author: Rosie Bsheer
     url: https://academic.oup.com/past/article-abstract/238/1/233/4791154?redirectedFrom=fulltext#no-access-message
     year: "2018"
-    type: Article
+    type: Article (Recommended)
   - title: "Graveyard of Clerics: Everyday Activism in Saudi Arabia"
     author: Pascale Minoret
     year: "2020"
@@ -46,7 +46,7 @@ readings:
     author: Gordian Troeller, Marie-Claude Deffarge
     year: "1973"
     url: https://www.troeller-deffarge.com/en/movies/the-early-works/communists-since-a-thousand-years/
-    type: Film
+    type: Film (Supplementary)
 discussionQuestions:
   - question: "The episode opens with an anatomy of power in Saudi Arabia: it
       presents two ways of understanding the country – one where the prime
