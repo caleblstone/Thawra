@@ -8,10 +8,10 @@ description: "We address the Palestinian revolution in Lebanon, Syria, and
   during Black September. Then, Egypt and Syria checked Israel’s power in the
   October War of 1973–only for Anwar Sadat, Nasser’s successor, to lead Egypt
   into Kissinger’s plan to pacify the Arab revolution. "
-shortDescription: "We address the Palestinian revolution in Lebanon, Syria, and
+shortDescription: We address the Palestinian revolution in Lebanon, Syria, and
   Jordan–leading up to the 1970 conflict that the national movement had with the
   Jordanian state and the violent expulsion of PLO guerillas that followed
-  during Black September."
+  during Black September.
 readings:
   - title: Al-Muqawama al-Filastiniya wa-an-Niẓām al-Urduniyya
     author: "Palestinian Research Centre "
@@ -81,6 +81,6 @@ discussionQuestions:
 spotifyLink: https://open.spotify.com/episode/2SDijvtp9eB6EWyDnJIgR1?si=35e3d95376894c3c
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664741984
 audioLink: https://content.blubrry.com/thedig/The_Dig-Ep_451-Takriti.mp3
-image:
+image: /assets/images/episode-15-black-september-1.png
 hasTranscript: false
 ---
