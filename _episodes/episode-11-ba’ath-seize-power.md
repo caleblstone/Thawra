@@ -1,7 +1,7 @@
 ---
 layout: episode
 number: 11
-title: "Ba’ath Seize Power"
+title: Ba’ath Seize Power
 description: "This episode recounts the destruction of the two giant
   revolutionary projects of 1958: the union of Egypt and Syria under Nasser’s
   United Arab Republic and Iraq’s July Revolution that brought Qasim alongside
