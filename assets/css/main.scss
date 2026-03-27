@@ -29,6 +29,7 @@ html, body{
     background-color: $base-white;
     font-family: 'Social';
     color: $base-black;
+    overflow-x: hidden;
 }
 
 #landingContainer{
@@ -38,8 +39,23 @@ html, body{
     grid-template-rows: auto 1fr;
 }
 
+
+
 header{
-    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: calc(100vw - 48px);
+    padding: 24px;
+
+    a{
+        text-decoration: none;
+        color: $base-black;
+    }
+    a:hover{
+        color: $link-color;
+    }
   
 
     #title {
@@ -47,8 +63,7 @@ header{
         
         
         align-items: center;
-        width: calc(100vw - 48px);
-        padding: 24px;
+        
 
         a{
             text-decoration: none;
@@ -88,6 +103,65 @@ header{
     }
 }
 
+footer{
+    border-top: .5px solid darkgray;
+    padding: 24px;
+    background-color: $base-black;
+    color: $base-white;
+
+    .footer-inner{
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+
+        .footer-brand a{
+            font-family: 'Gravity';
+            font-stretch: condensed;
+            font-size: 32px;
+            text-decoration: none;
+            color: $base-white;
+        }
+        .footer-brand a:hover{
+            color: $link-color;
+        }
+
+        .footer-about{
+            max-width: 360px;
+
+            h4{
+                margin: 0 0 8px 0;
+                color: $base-white;
+            }
+            p{
+                margin: 0;
+                font-size: 12px;
+                line-height: $body-text-line-height;
+                color: darkgray;
+            }
+        }
+
+        .footer-links{
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+
+            a{
+                text-decoration: none;
+                color: $base-white;
+            }
+            a:hover{
+                color: $link-color;
+            }
+        }
+
+        .footer-copy p{
+            margin: 0;
+            font-size: 12px;
+            color: darkgray;
+        }
+    }
+}
+
 #landing-content{
     width: 100vw;
     display: flex;
@@ -113,10 +187,11 @@ header{
     
     .episode-item{
         display: grid;
-        grid-template-columns: auto 1fr 1fr 1fr;
+        grid-template-columns: auto 2fr 1fr;
         column-gap: 16px;
         padding-left: 24px;
         padding-right: 24px;
+        border-top: .5px solid darkgray;
     }
     .episode-item:hover{
         background-color: $highlight-color;
@@ -147,7 +222,8 @@ header{
 
         .sliderNavItem{
             // text-wrap: nowrap;
-            width: fit-content;
+            width: 25vw;
+            // min-width: fit-content;
             padding: 16px;
             padding-left: 0px;
             padding-right: 32px;
@@ -365,6 +441,14 @@ header{
                 cursor: default;
                 background-color: $base-black;
             }
+            .disabled{
+                color: darkgray;
+                pointer-events: none;
+            }
+            .disabled:hover{
+                background-color: transparent;
+                cursor: default;
+            }
         }
         #readerContent{
             // padding: 16px;
@@ -372,6 +456,11 @@ header{
             line-height: $body-text-line-height;
             display: flex;
             justify-content: center;
+
+            a{
+                text-decoration: none;
+                color: $base-black;
+            }
 
             p{
                 margin-top: 0px;
@@ -390,10 +479,11 @@ header{
                         width: 100%;
                     }
                     
-                    div{
+                    .readingItem{
                         // width: fit-content;
                         display: grid;
                         grid-template-columns: 1fr 1fr 1fr 1fr;
+                        gap: 5vw;
                         padding-top: 8px;
                         padding-bottom: 8px;
                     }
@@ -560,6 +650,20 @@ header{
                 justify-content: flex-end !important;
             }
 
+        }
+    }
+
+    footer .footer-inner{
+        flex-direction: column;
+        gap: 24px;
+
+        .footer-about{
+            max-width: 100%;
+        }
+
+        .footer-links{
+            flex-direction: column;
+            gap: 12px;
         }
     }
 }

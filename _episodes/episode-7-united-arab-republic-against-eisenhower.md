@@ -1,8 +1,13 @@
 ---
 layout: episode
 number: 7
-title: "Episode 7: United Arab Republic Against Eisenhower "
+title: "United Arab Republic Against Eisenhower"
 description: "We begin with the US’s Eisenhower Doctrine, which in 1957
+  inaugurated a new era of imperialism in the Middle East, including the
+  deployment of American combat operations in the region; and end with a local
+  political response: the Ba’ath Party driving Syria and Egypt into the United
+  Arab Republic, a superstate under Nasser’s rule, in 1958."
+shortDescription: "We begin with the US’s Eisenhower Doctrine, which in 1957
   inaugurated a new era of imperialism in the Middle East, including the
   deployment of American combat operations in the region; and end with a local
   political response: the Ba’ath Party driving Syria and Egypt into the United

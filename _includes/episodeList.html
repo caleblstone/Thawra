@@ -1,10 +1,12 @@
 <div id="episodeList">
-    {% for episode in site.posts reversed %}
+    {% assign sorted_episodes = site.episodes | sort: "number" %}
+    {% for episode in sorted_episodes %}
+
     <a href="{{ episode.url }}">
         <div class="episode-item">
             <div><p>{{ episode.number }}</p></div>
             <div class="mb2"><p><em>{{ episode.title }}</em></p></div>
-            <div class="tags"><p>{{ episode.tags }}</p></div>
+            <!-- <div class="tags"><p>{{ episode.tags }}</p></div> -->
             <div class="mb2 description"><p>{{ episode.description }}</p></div>
             
         </div>

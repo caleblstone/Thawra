@@ -1,12 +1,16 @@
 ---
 layout: episode
 number: 10
-title: "Episode 10: Iraqi Revolution, Communist Power "
+title: "Iraqi Revolution, Communist Power"
 description: "We learn the story of Iraq’s 1958 July Revolution: a Free
   Officers’ coup overthrew the imperialist-aligned Hashemite monarchy and
   brought nationalist Abdul-Karim Qasim to power alongside a surging Communist
   Party. Revolutionary currents soon turned against one another, however, as did
   Qasim and Nasser."
+shortDescription: "We learn the story of Iraq’s 1958 July Revolution: a Free
+  Officers’ coup overthrew the imperialist-aligned Hashemite monarchy and
+  brought nationalist Abdul-Karim Qasim to power alongside a surging Communist
+  Party."
 tags:
   - tag1
   - tag2

@@ -1,7 +1,7 @@
 ---
 layout: episode
 number: 13
-title: "Revolutionary Arabia "
+title: "Revolutionary Arabia"
 description: "“Revolutionary Arabia” chronicles the armed left-wing
   revolutionary movements that challenged British imperial power across Southern
   Arabia, from the National Liberation front seizing power in South Yemen to the
@@ -9,6 +9,11 @@ description: "“Revolutionary Arabia” chronicles the armed left-wing
   and the sultan. While today’s alliance of reactionary Gulf monarchies seems
   inevitable, here we see they were made by colonial power–and that they were
   seriously contested by revolutionary movements in the 1960s and 1970s. "
+shortDescription: "“Revolutionary Arabia” chronicles the armed left-wing
+  revolutionary movements that challenged British imperial power across Southern
+  Arabia, from the National Liberation front seizing power in South Yemen to the
+  Dhufari revolutionaries in Oman waging a liberation war against the British
+  and the sultan."
 tags:
   - tag1
   - tag2

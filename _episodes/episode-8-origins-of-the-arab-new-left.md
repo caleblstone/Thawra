@@ -1,13 +1,17 @@
 ---
 layout: episode
 number: 8
-title: "Episode 8: Origins of the Arab New Left "
+title: "Origins of the Arab New Left"
 description: This is a compact introduction to the Movement of Arab
   Nationalists, which in the 1950s built a presence that stretched across the
   region, from Beirut and Jordan to Cairo and the Gulf—becoming a truly powerful
   force in Kuwait. Led in significant part by Palestinians, its early history
   offers a ground-level look at the organizational and theoretical currents
   shaping radical Arab politics.
+shortDescription: "This is a compact introduction to the Movement of Arab
+  Nationalists, which in the 1950s built a presence that stretched across the
+  region, from Beirut and Jordan to Cairo and the Gulf—becoming a truly powerful
+  force in Kuwait."
 tags:
   - tag1
   - tag2

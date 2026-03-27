@@ -1,8 +1,10 @@
 ---
 layout: episode
 number: 3
-title: "Episode 3: The Post-Colonial Arab State System  "
+title: "The Post-Colonial Arab State System"
 description: "A comprehensive overview of the Middle Eastern Arab state system
+  that crystallized with the end of British and French colonial rule. "
+shortDescription: "A comprehensive overview of the Middle Eastern Arab state system
   that crystallized with the end of British and French colonial rule. "
 tags:
   - tag1

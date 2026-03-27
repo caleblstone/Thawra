@@ -11,6 +11,11 @@ description: " “Palestine on the Road to Revolution” covers the creation of 
   focusing on the idea of launching an armed revolution as the pathway to
   liberating Palestine. This is the story of the beginning of the Palestinian
   national liberation movement as we have come to know it today."
+shortDescription: "“Palestine on the Road to Revolution” covers the creation of a
+  Palestinian national liberation movement throughout the 1950s by a people
+  dispersed by the Nakba: organizations, alliances, and theories of change
+  assembled in the universities, cities, and refugee camps surrounding
+  Palestine."
 tags: []
 readings:
   - title: The Palestinian Revolution

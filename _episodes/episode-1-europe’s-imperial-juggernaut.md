@@ -8,6 +8,11 @@ description: "The first episode of our series establishes the development of
   monarchical absolutism, and the emergence of early labor and land reform
   movements. These processes shaped all political thought and action, affecting
   revolutionaries as well as restorationists across the region. "
+shortDescription: "The first episode of our series establishes the development of
+  European imperialism in the Arab world from the late 18th through early 20th
+  centuries, the rise of constitutionalist movements  that challenged
+  monarchical absolutism, and the emergence of early labor and land reform
+  movements."
 readings:
   - title: "Age of Coexistence: The Ecumenical Frame and the Making of the Modern
       Arab World"

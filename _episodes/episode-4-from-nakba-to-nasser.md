@@ -1,8 +1,12 @@
 ---
 layout: episode
 number: 4
-title: "Episode 4: From Nakba to Nasser"
+title: "From Nakba to Nasser"
 description: "Laying out the politics surrounding the Zionist settler colonial
+  destruction of Palestine, and the ground-shifting event that followed in its
+  wake: Nasser’s 1952 Egyptian Free Officers Movement coup, which would set the
+  tone for two decades of revolutionary nationalism across the region. "
+shortDescription: "Laying out the politics surrounding the Zionist settler colonial
   destruction of Palestine, and the ground-shifting event that followed in its
   wake: Nasser’s 1952 Egyptian Free Officers Movement coup, which would set the
   tone for two decades of revolutionary nationalism across the region. "

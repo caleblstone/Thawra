@@ -1,11 +1,15 @@
 ---
 layout: episode
 number: 5
-title: "Episode 5: The Struggle for Syria "
+title: "The Struggle for Syria "
 description: "We trace an arc from the fight for independence, to the first
   (CIA-backed) coup of 1949, and the rise of the Ba’ath and Communist movements,
   detailing how the dye for a martial expression of politics was cast by Western
   subterfuge. "
+shortDescription: "We trace an arc from the fight for independence, to the first
+  (CIA-backed) coup of 1949, and the rise of the Ba’ath and Communist movements,
+  detailing how the dye for a martial expression of politics was cast by Western
+  subterfuge."
 tags:
   - tag1
   - tag2

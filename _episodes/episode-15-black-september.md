@@ -8,6 +8,10 @@ description: "We address the Palestinian revolution in Lebanon, Syria, and
   during Black September. Then, Egypt and Syria checked Israel’s power in the
   October War of 1973–only for Anwar Sadat, Nasser’s successor, to lead Egypt
   into Kissinger’s plan to pacify the Arab revolution. "
+shortDescription: "We address the Palestinian revolution in Lebanon, Syria, and
+  Jordan–leading up to the 1970 conflict that the national movement had with the
+  Jordanian state and the violent expulsion of PLO guerillas that followed
+  during Black September."
 tags: []
 readings:
   - title: Al-Muqawama al-Filastiniya wa-an-Niẓām al-Urduniyya

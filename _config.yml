@@ -17,7 +17,9 @@ plugins:
   - jekyll-seo-tag
 
 collections:
-  - episodes
+  episodes:
+    output: true
+
 
   
 

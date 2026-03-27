@@ -1,14 +1,16 @@
 <div id="episodeContainer">
    
     <div id="sliderNavBar">
-        {% for episode in site.posts reversed %}
+
+        {% assign sorted_episodes = site.episodes | sort: "number" %}
+        {% for episode in sorted_episodes %}
             <div class="sliderNavItem {% if episode.url == page.url %} active {% endif %}">
                 <a href="{{ episode.url }}">
                     <div class="episodeHeader">
                         <div><p>Episode {{ episode.number }}:</p> </div>
                         <div class="episodeTitle"><p><em>{{ episode.title }}</em></p></div>
                     </div>
-                    <div class="description"><p>{{ episode.description }}</p></div>
+                    <div class="description"><p>{{ episode.shortDescription }}</p></div>
                 </a>
             </div>
         {% endfor %}
@@ -54,8 +56,12 @@
             <div class="borderLeft" data-target="readerText">
                 Reader
             </div>
-            <div data-target="transcriptText">
+            <div data-target="transcriptText" {% unless page.hasTranscript %}class="disabled"{% endunless %}>
+                {% if page.hasTranscript == true %}
                 Transcript
+                {% else %}
+                <s>Transcript</s>
+                {% endif %}
             </div>
 
         </div>
@@ -63,7 +69,7 @@
             <div id="discussionQuestions">
                 <ul>
                     {% for question in page.discussionQuestions %}
-                        <li>{{ question }}</li>
+                        <li>{{ question.question }}</li>
                     {% endfor %}
                 </ul>
             </div>
@@ -72,14 +78,12 @@
                 
                <div class="readerGrid">
                 {% for reading in page.readings %}
-                <div class="readingItem">
-                    <!-- <a href="{{ reading.link }}" target="_blank" rel="noopener"> -->
+                <a href="{{ reading.url }}" target="_blank" rel="noopener"><div class="readingItem">
                         <div><em>{{ reading.title }}</em></div>
-                        <div class="center">{{ reading.author }}</div>
+                        <div>{{ reading.author }}</div>
                         <div class="center">{{ reading.year }}</div>
                         <div class="end">{{ reading.type }}</div>
-                    <!-- </a> -->
-                </div>
+                </div></a>
                 {% endfor %}
                
                </div>

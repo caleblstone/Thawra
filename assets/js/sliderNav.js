@@ -10,9 +10,14 @@ document.addEventListener('DOMContentLoaded', function() {
         sliderNavBar.style.height = `${currentHeight}px`; 
         requestAnimationFrame(() => {
             setTimeout(() => {
+                let maxTitleWidth = 0;
+                sliderNavItems.forEach(item => {
+                    const title = item.querySelector('.episodeTitle');
+                    if (title) maxTitleWidth = Math.max(maxTitleWidth, title.offsetWidth);
+                });
                 sliderNavItems.forEach(item => {
                     const currentWidth = item.offsetWidth;
-                    item.style.width = `${currentWidth - 32 }px`;
+                    item.style.width = `${Math.max(currentWidth - 32, maxTitleWidth)}px`;
                 });
             }, 0);
         });

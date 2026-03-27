@@ -1,12 +1,16 @@
 ---
 layout: episode
 number: 12
-title: "Episode 12: Origins of Saudi Reaction "
+title: "Origins of Saudi Reaction"
 description: "Abdel and Dan anatomize Saudi Arabia, a country whose reactionary,
   US-aligned trajectory was throughout the 1950s and 60s challenged by labor
   strikes, dissident currents, rebellious princes, and an anticolonial oil
   minister. But, eventually, Saudi royal conservatism won out, and was exported
   across the region. "
+shortDescription: "Abdel and Dan anatomize Saudi Arabia, a country whose reactionary,
+  US-aligned trajectory was throughout the 1950s and 60s challenged by labor
+  strikes, dissident currents, rebellious princes, and an anticolonial oil
+  minister."
 tags:
   - tag1
   - tag2

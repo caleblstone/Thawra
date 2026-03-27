@@ -1,11 +1,15 @@
 ---
 layout: episode
 number: 2
-title: "Episode 2: The Birth of Arab Nationalism "
+title: "The Birth of Arab Nationalism"
 description: "This episode lays out a key genealogy of 20th century
   anti-colonialism, forged through the “Great Revolts” in Iraqi, Syria, and
   Palestine, and the parallel birth of a range of ideological colorations: Arab
   nationalism, Islamic resistance, Ba’athism, and communism. "
+shortDescription: "This episode lays out a key genealogy of 20th century
+  anti-colonialism, forged through the “Great Revolts” in Iraqi, Syria, and
+  Palestine, and the parallel birth of a range of ideological colorations: Arab
+  nationalism, Islamic resistance, Ba’athism, and communism."
 tags:
   - tag1
   - tag2

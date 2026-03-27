@@ -8,7 +8,10 @@ description: "This final episode of the main series traces a massive defeat of
   normalization with Israel, the PLO evacuated its headquarters in Lebanon. What
   followed was an unthinkable large massacre of Palestinian civilians and an end
   to the decades-long era of Arab revolutionary politics that Thawra was
-  dedicated to chronicling.  "
+  dedicated to chronicling."
+shortDescription: "This final episode of the main series traces a massive defeat of
+  the Palestinian Revolution: Israel’s 1982 invasion of Lebanon and the brutal
+  siege of Beirut."
 tags:
   - tag1
   - tag2
