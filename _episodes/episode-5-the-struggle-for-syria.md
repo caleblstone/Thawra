@@ -6,16 +6,16 @@ description: "We trace an arc from the fight for independence, to the first
   (CIA-backed) coup of 1949, and the rise of the Ba’ath and Communist movements,
   detailing how the dye for a martial expression of politics was cast by Western
   subterfuge. "
-shortDescription: "We trace an arc from the fight for independence, to the first
+shortDescription: We trace an arc from the fight for independence, to the first
   (CIA-backed) coup of 1949, and the rise of the Ba’ath and Communist movements,
   detailing how the dye for a martial expression of politics was cast by Western
-  subterfuge."
+  subterfuge.
 readings:
   - title: The Struggle for Syria
     author: Patrick Seale
     year: "1965"
     type: Book
-    url:
+    url: https://annas-archive.gl/md5/a1ed7ecd97ce170763a1e714469fa12c
   - url: https://newleftreview.org/issues/i45/articles/eric-rouleau-the-syrian-enigma-what-is-the-baath.pdf
     type: Article
     title: "The Syrian Enigma: What Is the Baath?"
