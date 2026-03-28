@@ -1,49 +1,49 @@
 ---
 layout: episode
 number: 8
-title: "Origins of the Arab New Left"
+title: Origins of the Arab New Left
 description: This is a compact introduction to the Movement of Arab
   Nationalists, which in the 1950s built a presence that stretched across the
   region, from Beirut and Jordan to Cairo and the Gulf—becoming a truly powerful
   force in Kuwait. Led in significant part by Palestinians, its early history
   offers a ground-level look at the organizational and theoretical currents
   shaping radical Arab politics.
-shortDescription: "This is a compact introduction to the Movement of Arab
+shortDescription: This is a compact introduction to the Movement of Arab
   Nationalists, which in the 1950s built a presence that stretched across the
   region, from Beirut and Jordan to Cairo and the Gulf—becoming a truly powerful
-  force in Kuwait."
+  force in Kuwait.
 readings:
   - title: "Revolutionary Transformation in the Arab World: Habash and His Comrades
       from Nationalism to Marxism"
     author: "Walid Kazziha "
     year: "1975"
     url: https://www.scribd.com/document/978936657/Walid-W-Kazziha-Revolutionary-Transformation-in-the-Arab-World-Habash-and-His-Comrades-From-Nationalism-to-Marxism-1975
-    type: Book
+    type: Book (Recommended)
   - title: The Arab Lefts, Histories and Legacies, 1950s–1970s
     author: Laure Guirgis
-    type: Book
+    type: Book (Recommended)
     year: "2020"
     url: https://archive.org/details/document_20260113
   - title: "Chapter 4, Arabic Thought Against The Authoritarian Age: Towards An
       Intellectual History Of The Present"
     author: Abdel Razzaq Takriti
     url: https://vdoc.pub/download/arabic-thought-against-the-authoritarian-age-towards-an-intellectual-history-of-the-present-6j3egi0evpm0
-    type: Book Chapter
+    type: Book Chapter (Recommended)
     year: "2018"
   - title: Interview with Saeed Musa Muragha
     author: The Palestinian Revolution
     year: "2012"
-    type: Interview
+    type: Interview (Supplementary)
     url: https://learnpalestine.qeh.ox.ac.uk/uploads/sources/588d7fa4f141d.pdf
   - url: https://drive.google.com/drive/folders/14YGrzj8JlyGNkaEenNaDi_0gQrObX0u1
-    type: Movie
+    type: Movie (Supplementary)
     title: Jamila, the Algerian
     author: Youssef Chahine
     year: "1958"
   - title: Bas ya Bahar (The Cruel Sea)
     author: Khalid Al Siddiq
     year: "1971"
-    type: Movie
+    type: Movie (Supplementary)
     url: https://drive.google.com/drive/folders/14FdwYok00R80nkZNHa0GG-F2rKx5tTfQ
 discussionQuestions:
   - question: "Who were the ideological and political mentors of the Movement of
