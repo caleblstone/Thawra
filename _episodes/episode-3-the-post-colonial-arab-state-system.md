@@ -1,11 +1,11 @@
 ---
 layout: episode
 number: 3
-title: "The Post-Colonial Arab State System"
+title: The Post-Colonial Arab State System
 description: "A comprehensive overview of the Middle Eastern Arab state system
   that crystallized with the end of British and French colonial rule. "
-shortDescription: "A comprehensive overview of the Middle Eastern Arab state system
-  that crystallized with the end of British and French colonial rule. "
+shortDescription: "A comprehensive overview of the Middle Eastern Arab state
+  system that crystallized with the end of British and French colonial rule. "
 readings:
   - title: "Over-stating the Arab State: Politics and Society in the Middle East,"
     author: Nazih Ayoubi
