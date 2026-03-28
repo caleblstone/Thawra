@@ -1,7 +1,7 @@
 ---
 layout: episode
 number: 7
-title: "United Arab Republic Against Eisenhower"
+title: United Arab Republic Against Eisenhower
 description: "We begin with the US’s Eisenhower Doctrine, which in 1957
   inaugurated a new era of imperialism in the Middle East, including the
   deployment of American combat operations in the region; and end with a local
@@ -40,44 +40,44 @@ readings:
     title: Declaration of Unity, Presidential Palace (Nasser signs agreement on UAR)
     author: Nasser Digital Archive
     year: "1958"
-    type: Archival footage
+    type: Archival footage (Supplementary)
   - url: https://www.youtube.com/watch?v=RvUclG6byqY
     title: Nasser announces the establishment of the United Arab Republic
     author: Gamal Abdel Nasser
     year: "1958"
-    type: "Speech "
+    type: Speech (Supplementary)
   - title: Baghdad Pact
     url: https://avalon.law.yale.edu/20th_century/baghdad.asp
     year: "1955"
     author: Goverments of UK and Iraq
-    type: Primary legal-historical document (Supplemental)
+    type: Historical legal document (Supplementary)
   - author: Dwight D. Eisenhower
     year: "1957"
     title: The Eisenhower Doctrine
-    type: Speech (Supplemental)
+    type: Speech (Supplementary)
     url: https://loveman.sdsu.edu/docs/1957EisenhowerDoctrine.pdf
   - url: https://archive.org/details/RobyC.BarrettTheGreaterMiddleEastAndTheColdWarUSForeignPolicyUnderEisenhowerAndKennedy/page/n201/mode/2up
     title: "The Greater Middle East and the Cold War: US foreign policy under
       Eisenhower and Kennedy"
     author: Roby C. Barrett
     year: "2007"
-    type: Book (Supplemental)
+    type: Book (Supplementary)
   - title: The Cold War and the Middle East
     author: "Yezid Sayegh and Avi Shlaim "
     url: https://www.scribd.com/document/491565479/The-Cold-War-and-the-Middle-East-pdf
-    type: Book (Supplemental)
+    type: Book (Supplementary)
     year: "1997"
   - title: "Washington Bullets: A History of the Cia, Coups, and Assassinations"
     author: "Vijay Prashad "
     url: https://dialecticalartist.wordpress.com/wp-content/uploads/2021/03/washington-bullets-by-vijay-prashad-.pdf
-    type: Book
+    type: Book (Supplementary)
     year: "2020"
   - title: "1958 Reconsidered: State Formation and the Cold War in the Early
       Postcolonial Arab Middle East"
     url: https://www.jstor.org/stable/43303030
     author: Cyrus Schayegh
     year: "2013"
-    type: Journal Article
+    type: Journal Article (Supplementary)
 discussionQuestions:
   - question: "What was the Eisenhower Doctrine and how did it differ from the
       foreign policy prescriptions and impositions that preceded it? Where was
