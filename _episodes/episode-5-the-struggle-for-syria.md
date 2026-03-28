@@ -14,10 +14,10 @@ readings:
   - title: The Struggle for Syria
     author: Patrick Seale
     year: "1965"
-    type: Book
+    type: Book (Recommended)
     url: https://annas-archive.gl/md5/a1ed7ecd97ce170763a1e714469fa12c
   - url: https://newleftreview.org/issues/i45/articles/eric-rouleau-the-syrian-enigma-what-is-the-baath.pdf
-    type: Article
+    type: Article (Recommended)
     title: "The Syrian Enigma: What Is the Baath?"
     author: Eric Rouleau
     year: "1967"
@@ -25,17 +25,17 @@ readings:
     author: Qais Al-Zubaidi
     year: "1974"
     url: https://vk.com/video547001063_456241881
-    type: Film
+    type: Film (Supplementary)
   - title: Everyday Life in a Syrian Village
     author: Omar Amiralay & Saadallah Wannus
     year: "1974"
     url: https://dafilms.com/film/8108-everyday-life-in-a-syrian-village
-    type: Film
+    type: Film (Supplementary)
   - title: The Chickens
     author: Omar Amiralay
     year: "1977"
     url: https://www.youtube.com/watch?v=tUBnbekmTfw
-    type: Film
+    type: Film (Supplementary)
 discussionQuestions:
   - question: "What first established the pattern of martial politics – coup
       d'etats, civil wars, foreign  intelligence interventions, etc. – and what
