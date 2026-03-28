@@ -19,28 +19,38 @@ readings:
     author: Ussama Makdisi
     url: https://www.ucpress.edu/books/age-of-coexistence/paper
     year: "2021"
-    type: Book
+    type: Book (Recommended)
   - title: Palestine in Transformation, 1856-1882, Studies in Social, Economic, and
       Political Development
     author: Alexander Scholch
     year: "1993"
     url: https://yplus.ps/wp-content/uploads/2021/01/Scholch-Alexander-Palestine-in-Transformation-1856-1882.pdf
-    type: Book
+    type: Book (Recommended)
   - title: "Imperial Identities: Stereotyping, Prejudice,and Race in Colonial Algeria"
     author: Patricia Lorcin
     url: https://archive.org/details/imperialidentiti0000lorc
     year: "1995"
-    type: Book
+    type: Book (Recommended)
   - title: The Striking Cabbies of Cairo and Other Stories
     author: John Chalcraft
     url: https://archive.org/details/strikingcabbieso0000chal
     year: "2004"
-    type: Book
+    type: Book (Recommended)
   - title: "Policy of Deceit: Britain and Palestine, 1913-1949"
     author: Peter Shambrook
     url: https://www.simonandschuster.com/books/Policy-of-Deceit/Peter-Shambrook/9780861549498
     year: "2024"
-    type: Book
+    type: Book (Recommended)
+  - title: Ma'loul Celebrates Its Destruction
+    author: Michel Khleifi
+    year: "1984"
+    type: Short Film
+    url: https://www.criterionchannel.com/ma-loul-celebrates-its-destruction
+  - title: The Land
+    author: "Youssef Chahine "
+    year: "1970"
+    url: https://www.criterionchannel.com/videos/the-land
+    type: Film
 discussionQuestions:
   - question: What were the early forms and expressions of European imperialism in
       the late Ottoman period?
