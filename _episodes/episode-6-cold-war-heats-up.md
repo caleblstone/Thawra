@@ -1,15 +1,15 @@
 ---
 layout: episode
 number: 6
-title: "Cold War Heats Up"
-description: "Laying out the intensification of the Cold War across the Middle
+title: Cold War Heats Up
+description: Laying out the intensification of the Cold War across the Middle
   East–specifically Nasser’s mass political campaign against the Baghdad pact,
   the nationalization of the Suez Canal, and the military and political
-  responses it provoked."
-shortDescription: "Laying out the intensification of the Cold War across the Middle
-  East–specifically Nasser’s mass political campaign against the Baghdad pact,
-  the nationalization of the Suez Canal, and the military and political
-  responses it provoked."
+  responses it provoked.
+shortDescription: Laying out the intensification of the Cold War across the
+  Middle East–specifically Nasser’s mass political campaign against the Baghdad
+  pact, the nationalization of the Suez Canal, and the military and political
+  responses it provoked.
 readings:
   - title: "Nationalist Voices in Jordan: The Street and the State"
     author: Betty S. Anderson
