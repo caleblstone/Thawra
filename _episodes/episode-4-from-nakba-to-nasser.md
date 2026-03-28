@@ -1,72 +1,78 @@
 ---
 layout: episode
 number: 4
-title: "From Nakba to Nasser"
+title: From Nakba to Nasser
 description: "Laying out the politics surrounding the Zionist settler colonial
   destruction of Palestine, and the ground-shifting event that followed in its
   wake: Nasser’s 1952 Egyptian Free Officers Movement coup, which would set the
   tone for two decades of revolutionary nationalism across the region. "
-shortDescription: "Laying out the politics surrounding the Zionist settler colonial
-  destruction of Palestine, and the ground-shifting event that followed in its
-  wake: Nasser’s 1952 Egyptian Free Officers Movement coup, which would set the
-  tone for two decades of revolutionary nationalism across the region. "
+shortDescription: "Laying out the politics surrounding the Zionist settler
+  colonial destruction of Palestine, and the ground-shifting event that followed
+  in its wake: Nasser’s 1952 Egyptian Free Officers Movement coup, which would
+  set the tone for two decades of revolutionary nationalism across the region. "
 readings:
+  - title: The Nakba Generation
+    author: "Karma Nabulsi and Abdel Razzaq Takriti "
+    year: "2016"
+    type: Digital article (Recommended)
+    url: https://learnpalestine.qeh.ox.ac.uk/teach/week/2
   - title: "Egypt: Military Society; the Army Regime, the Left, and Social Change
       under Nasser"
     author: "Anouar Abdel Malek "
     year: "1968"
-    type: Book
+    type: Book (Recommended)
     url: https://archive.org/details/egyptmilitarysoc0000abde
   - title: Anticolonial Afterlives in Egypt
     author: Sara Salem
     year: "2020"
-    type: Book
+    type: Book (Recommended)
     url: https://archive.org/details/dokumen.pub_anticolonial-afterlives-in-egypt-the-politics-of-hegemony-1108491510-9781108491518
   - title: The Ethnic Cleansing of Palestine
     author: Ilan Pappe
     year: "2006"
-    type: Book
+    type: Book (Recommended)
     url: https://yplus.ps/wp-content/uploads/2021/01/Pappe-Ilan-The-Ethnic-Cleansing-of-Palestine.pdf
   - title: The Suez Canal Nationalization Speech
     author: Gamal Abdel Nasser
     year: "1956"
-    type: Speech
+    type: Speech (Supplementary)
     url: http://nasser.bibalex.org/TextViewer.aspx?TextID=SPCH-495-ar
   - title: Nasser 56
     author: Mohamed Fadel
     year: "1996"
     url: https://www.youtube.com/watch?v=UE3n1G-Sln8
-    type: Film
+    type: Film (Supplementary)
   - title: "Al-Nakba: The Palestinian Catastrophe"
     author: " Al-Jazeera"
     year: "2013"
-    type: Documentary
+    type: Documentary (Supplementary)
     url: https://www.youtube.com/watch?v=H7FML0wzJ6A
   - title: "The Secret Life of Saeed, the Ill-Fated Pessoptimist: A Palestinian Who
       Became a Citizen of Israel"
     author: Emile Habibe
     year: "2010"
-    type: Book
+    type: Book (Supplementary)
     url: https://www.hauspublishing.com/product/the-secret-life-of-saeed-the-pessoptimist/
   - title: The Woman from Tantoura
     author: Radwa Ashour
     year: "2010"
-    type: "Book "
+    type: Book (Supplementary)
     url: https://indiepubs.com/products/the-woman-from-tantoura?_pos=1&_sid=48ad7af48&_ss=r
   - title: Class Conflict in Egypt, 1945-71
     author: "Mahmoud Hussein "
     url: https://www.abebooks.com/9780853452331/Class-Conflict-Egypt-1945-1970-Hussein-0853452334/plp
-    type: Book
+    type: Book (Supplementary)
     year: "1974"
   - url: https://www.madamasr.com/en/2023/03/25/feature/economy/reading-turath-in-ahmed-sadiq-saads-texts/
     title: Reading turath in Ahmed Sadiq Saad’s texts
     author: Nasr Hamid Abu Zeid
-    type: Article
+    type: Article (Supplementary)
     year: "2023"
   - url: https://www.palquest.org/en/biography/14267/muin-bseiso
     title: Biography of Muin Bseiso
     author: The Interactive Encyclopedia of the Palestine Question
-    type: Article
+    type: Article (Supplementary)
+    year: "2002"
 discussionQuestions:
   - question: "The Nakba was a terrible tragedy for the Palestinian people, though
       it also had dramatic regional implications. How did the defeat of Arab
