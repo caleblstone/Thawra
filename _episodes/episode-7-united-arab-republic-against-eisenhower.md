@@ -50,7 +50,7 @@ readings:
     url: https://avalon.law.yale.edu/20th_century/baghdad.asp
     year: "1955"
     author: Goverments of UK and Iraq
-    type: Historical legal document (Supplementary)
+    type: Treaty (Supplementary)
   - author: Dwight D. Eisenhower
     year: "1957"
     title: The Eisenhower Doctrine
