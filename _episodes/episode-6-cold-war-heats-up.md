@@ -14,49 +14,50 @@ readings:
   - title: "Nationalist Voices in Jordan: The Street and the State"
     author: Betty S. Anderson
     url: https://archive.org/details/nationalistvoice0000ande
-    type: Book
+    type: Book (Recommended)
     year: "2005"
   - title: Foreign Policy as Nation Making Turkey and Egypt in the Cold War
     author: "Reem Abou El Fadl "
     url: https://archive.org/details/foreign-policy-as-nation-making-turkey-and-egypt-in-the-cold-war
-    type: Book
+    type: Book (Recommended)
     year: "2019"
   - title: “Arab Socialism” in Van Der Linden, Marcel (ed.). Cambridge History of
       Socialism
     author: Abdel Razzaq Takriti and Hicham Safieddine
     year: "2022"
-    type: Book chapter
+    type: Book Chapter (Recommended)
     url: https://archive.org/details/arab-socialism_202601
   - url: https://www.palquest.org/en/highlight/21228/march-1955-outburst-gaza-strip
     title: "The March 1955 Outburst in the Gaza Strip: Thwarting Resettlement Schemes"
     author: Maher Charif
-    type: "Article "
+    type: Article (Recommended)
+    year: "2002"
   - url: http://nasser.bibalex.org/MediaViewer.aspx?VideoID=VID-VID-8216-ar
     author: BBC
-    type: Documentary
+    type: Documentary (Supplementary)
     year: "1966"
     title: "The Nine Day War "
   - title: "Soundtrack to a Coup D’Etat "
     author: Johan Grimonprez
     year: "2024"
-    type: Documentary
+    type: Documentary (Supplementary)
     url: https://www.kanopy.com/en/product/soundtrack-coup-detat
-  - title: "Beyond the din of the battle: Stories from the Struggle for Port Said"
+  - title: "Beyond the Din of the Battle: Stories from the Struggle for Port Said"
     author: Alia Mossallam
     url: https://www.madamasr.com/en/2016/11/07/opinion/u/beyond-the-din-of-the-battle-stories-from-the-struggle-for-port-said/
     year: "2016"
-    type: Article
+    type: Article (Supplementary)
   - url: https://muse.jhu.edu/pub/315/edited_volume/chapter/3259323
     title: "\"Building Egypt's Afro-Asian Hub\" in The Lives of Cold War
       Afro-Asianism"
     author: " Reem Abou El Fadl"
     year: "2022"
-    type: Book chapter
+    type: Book Chapter (Supplementary)
   - title: "Making a World after Empire: The Bandung Moment and Its Political
       Afterlives"
     author: " Christopher E. Lee "
     url: https://ohioopen.library.ohio.edu/cgi/viewcontent.cgi?article=1060&context=oupress
-    type: Book
+    type: Book (Supplementary)
     year: "2019"
 discussionQuestions:
   - question: "Scholars have increasingly discussed the Cold War not only as a
