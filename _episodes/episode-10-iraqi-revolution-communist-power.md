@@ -1,7 +1,7 @@
 ---
 layout: episode
 number: 10
-title: "Iraqi Revolution, Communist Power"
+title: Iraqi Revolution, Communist Power
 description: "We learn the story of Iraq’s 1958 July Revolution: a Free
   Officers’ coup overthrew the imperialist-aligned Hashemite monarchy and
   brought nationalist Abdul-Karim Qasim to power alongside a surging Communist
@@ -14,20 +14,20 @@ shortDescription: "We learn the story of Iraq’s 1958 July Revolution: a Free
 readings:
   - url: https://bnk.institutkurde.org/images/pdf/TGHVQ3DFRA.pdf
     title: The Old Social Classes and the Revolutionary Movements of Iraq
-    author: Hannah Batutu
+    author: Hannah Batatu
     year: "2004"
-    type: Book
+    type: Book (Recommended)
   - url: https://www.sup.org/books/middle-east-studies/paranoid-style-american-diplomacy
     title: "The Paranoid Style in American Diplomacy: Oil and Arab Nationalism in
       Iraq"
     author: Brandon Wolfe-Hunnicutt
     year: "2021"
-    type: Book
+    type: Book (Recommended)
   - url: https://www.youtube.com/watch?v=9eiRe6jwQj8
     title: "Hanna Batutu: Biography and Journey"
     author: Arab Council for the Social Sciences
     year: "2019"
-    type: Short Documentary
+    type: Short Documentary (Supplementary)
 discussionQuestions:
   - question: "Why do you think Iraq’s political program after the July revolution
       goes further than Syria or Egypt in terms of labor and land reform?  "
