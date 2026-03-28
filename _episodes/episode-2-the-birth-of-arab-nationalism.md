@@ -1,7 +1,7 @@
 ---
 layout: episode
 number: 2
-title: "The Birth of Arab Nationalism"
+title: The Birth of Arab Nationalism
 description: "This episode lays out a key genealogy of 20th century
   anti-colonialism, forged through the “Great Revolts” in Iraqi, Syria, and
   Palestine, and the parallel birth of a range of ideological colorations: Arab
@@ -15,11 +15,11 @@ readings:
       and Thought of Sati Al-Husri"
     author: William L. Cleveland
     url: https://www.jstor.org/stable/j.ctt13x0zv1
-    type: Book
+    type: Book (Recommended)
     year: "2016"
   - title: "On The Arab Question: An Introduction to an Arab Democratic Manifesto"
     author: "Azmi Beshara "
-    type: Book
+    type: Book (Recommended)
     url: https://www.azmibishara.com/en/books/arab-question-introduction-arab-democratic-manifesto
     year: "2018"
   - title: "The Commander: Fawzi Al-Qawuqji and the Fight for Arab Independence
@@ -27,21 +27,21 @@ readings:
     author: "Laila Parsons "
     year: "2016"
     url: https://archive.org/details/the-commander-fawzi-al-qawuqji-and-the-fight-for-arab-independence-1914-1948
-    type: Book
+    type: Book (Recommended)
   - title: The 1936-39 Revolt in Palestine
     author: Ghassan Kanafani
     url: https://www.marxists.org/archive/kanafani/1972/revolt.htm
-    type: Book / Pamphlet
+    type: Book/Pamphlet (Recommended)
     year: "1972"
   - title: The Parisian
     author: Isabella Hammad
     year: "2019"
     url: https://groveatlantic.com/book/the-parisian/
-    type: Book
+    type: Novel (Recommended)
   - title: The Last Ottoman Generation and the making of the Modern Middle East
     author: Michael Provence
     url: https://archive.org/details/lastottomangener0000prov
-    type: Book
+    type: Book (Supplemental)
     year: "2017"
 discussionQuestions:
   - question: "What were the ‘Great Revolts’: what events were they in response to,
