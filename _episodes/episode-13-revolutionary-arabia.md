@@ -1,7 +1,7 @@
 ---
 layout: episode
 number: 13
-title: "Revolutionary Arabia"
+title: Revolutionary Arabia
 description: "“Revolutionary Arabia” chronicles the armed left-wing
   revolutionary movements that challenged British imperial power across Southern
   Arabia, from the National Liberation front seizing power in South Yemen to the
@@ -9,30 +9,35 @@ description: "“Revolutionary Arabia” chronicles the armed left-wing
   and the sultan. While today’s alliance of reactionary Gulf monarchies seems
   inevitable, here we see they were made by colonial power–and that they were
   seriously contested by revolutionary movements in the 1960s and 1970s. "
-shortDescription: "“Revolutionary Arabia” chronicles the armed left-wing
+shortDescription: “Revolutionary Arabia” chronicles the armed left-wing
   revolutionary movements that challenged British imperial power across Southern
   Arabia, from the National Liberation front seizing power in South Yemen to the
   Dhufari revolutionaries in Oman waging a liberation war against the British
-  and the sultan."
+  and the sultan.
 readings:
   - title: "Monsoon Revolution: Republicans, Sultans, and Empires in Oman, 1965-1976"
     author: "Abdel Razzaq Takriti "
-    type: Book
+    type: Book (Recommended)
     year: "2013"
     url: https://global.oup.com/academic/product/monsoon-revolution-9780198783176
   - title: Colonial Coups and the War on Popular Sovereignty
     author: Abdel Razzaq Takriti
     year: "2019"
-    type: Scholarly article
+    type: Journal article (Recommended)
     url: https://www.jstor.org/stable/27126957
+  - title: "State and Society in the Gulf and Arab Peninsula: A Different Perspective"
+    author: "Khaldoun al-Naqeeb "
+    year: "1990"
+    type: Book (Recommended)
+    url: https://www.khaldounalnaqeeb.com/UploadedFiles/books/B6/B6.pdf
   - title: "P.D.R. Yemen: Outpost of Socialist Development in Arabia"
     author: Helen Lackner
     year: "1985"
-    type: Book
+    type: Book (Recommended)
     url: https://archive.org/details/dokumen.pub_p-d-r-yemen-outpost-of-socialist-development-in-arabia-0863720323-9780863720321
   - title: "Sawt al-Bahrain: A Window onto the Gulf’s Social and Political History"
     author: Wafa Alsayed
-    type: Article
+    type: Digital article (Supplemental)
     url: https://blogs.lse.ac.uk/mec/2020/07/01/sawt-al-bahrain-a-window-onto-the-gulfs-social-and-political-history/
     year: "2020"
   - title: Arabia Without Sultans
@@ -49,10 +54,10 @@ readings:
     url: https://revolutionarypapers.org/teaching-tool/sawt-al-thawra/#sawt-al-thawra
     author: Marral Shamshiri
     year: "2022"
-    type: Digital Resource
+    type: Course module (Supplemental)
   - title: The Hour of Liberation Has Arrived
     author: Heiny Srour
-    type: Film
+    type: Film (Supplemental)
     url: https://www.ovid.tv/videos/the-hour-of-liberation-has-arrived
     year: "1974"
 discussionQuestions:
@@ -68,6 +73,6 @@ discussionQuestions:
 spotifyLink: https://open.spotify.com/episode/3XXXeK8t8OWdPuHV9RT1Xi?si=480852e7381d4294
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664741985
 audioLink: https://content.blubrry.com/thedig/The_Dig-EP_449-Takriti.mp3
-image:
+image: /assets/images/episode-13-revolutionary-arabia-2.png
 hasTranscript: false
 ---
