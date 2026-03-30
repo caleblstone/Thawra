@@ -1,68 +1,71 @@
 ---
 layout: episode
 number: 14
-title: "Palestinian Revolution"
-description: "This episode covers the rise of the Palestinian Revolution and
-  then its explosion after the Arab defeat in the June War of 1967 with the
-  Israeli colonial state. Fateh, the Popular Front for Liberation and Palestine,
-  and other factions launched an armed guerilla struggle, engaging the
-  Palestinian people in a full-scale mobilization for their liberation. Also:
-  Ba’athists Ahmad Hasan al-Bakr and Saddam Hussein seized power in Iraq, as did
-  Muammar Gaddafi’s Free Officers in Libya. "
-shortDescription: "This episode covers the rise of the Palestinian Revolution and
-  then its explosion after the Arab defeat in the June War of 1967 with the
-  Israeli colonial state."
+title: Palestinian Revolution
+description: "We cover the rise of the Palestinian Revolution and then its
+  explosion after the Arab defeat in the June War of 1967 with the Israeli
+  colonial state. Fateh, the Popular Front for Liberation and Palestine, and
+  other factions launched an armed guerilla struggle, engaging the Palestinian
+  people in a full-scale mobilization for their liberation. Also: Ba’athists
+  Ahmad Hasan al-Bakr and Saddam Hussein seized power in Iraq, as did Muammar
+  Gaddafi’s Free Officers in Libya. "
+shortDescription: "The Palestinian Revolution and then its explosion after the
+  Arab defeat in the June War of 1967 with the Israeli colonial state. Fateh,
+  the Popular Front for Liberation and Palestine, and other factions launched an
+  armed guerilla struggle, engaging the Palestinian people in a full-scale
+  mobilization for their liberation. "
 readings:
   - url: https://learnpalestine.qeh.ox.ac.uk/
     title: The Palestinian Revolution
     author: Karma Nabulsi and Abdel Razzaq Takriti
     year: "2016"
-    type: Online Resource
+    type: Digital archive (Recommended)
   - title: "My Life in the PLO: The Inside Story of the Palestinian Struggle"
     author: Shafiq Al-Hout
     year: "2010"
-    type: Book
+    type: Book (Recommended)
     url: https://www.plutobooks.com/product/my-life-in-the-plo/
   - url: https://www.youtube.com/watch?v=Hzip3SIq_80
     author: Gamal Abdel Nasser
-    title: " President Gamal Abdel Nasser's resignation speech after the 1967 defeat"
+    title: " President Gamal Abdel Nasser's resignation speech after the 1967 defeat
+      (Arabic)"
     year: "1967"
-    type: Speech (Arabic)
+    type: Speech (Supplemental)
   - title: " Yasser Arafat UN Speech (Arabic)"
     year: "1974"
     author: Yasser Arafat
-    type: Speech
+    type: Speech (Supplemental)
     url: https://www.youtube.com/watch?v=nyTQPV3AgzA&t=3073s
   - url: https://en.wikisource.org/wiki/Yasser_Arafat%27s_1974_UN_General_Assembly_speech
     title: " Yasser Arafat UN Speech (English)"
-    type: Speech
+    type: Speech (Supplemental)
     author: Yasser Arafat
     year: "1974"
   - url: https://www.youtube.com/watch?v=Pqf7-cp6AoM
     title: "Revolution on the Borders II: The Resistance in Lebanon, 1969-1976"
     author: May Sayegh, Learn Palestine
     year: "2017"
-    type: Interview
+    type: Interview (Supplemental)
   - url: https://www.youtube.com/watch?v=Yo-ssnV676Y&list=PLJk45-KnC0dxm5fW79TO5uWsDgJ_e4VQy&index=6
     title: Crossing the Border from 1948 Palestine to Lebanon and Joining the
       Revolution
     author: Therese Halasa, Learn Palestine
     year: "2016"
-    type: Interview
+    type: Interview (Supplemental)
   - title: Fatah Charter
-    url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://irp.fas.org/dni/osc/fatah-charter.pdf
-    type: Primary Source
+    url: https://irp.fas.org/dni/osc/fatah-charter.pdf
+    type: Primary source (Supplemental)
     year: "2009"
     author: Fatah
-  - url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.marxists.org/subject/israel-palestine/pflp/pflp-founding-statement.pdf
+  - url: https://www.marxists.org/subject/israel-palestine/pflp/pflp-founding-statement.pdf
     title: Founding Statement of the Popular Front for the Liberation of Palestine
     year: "1967"
-    type: Primary Source
+    type: Primary source (Supplemental)
     author: PFLP
   - title: What is the PLO?
     author: Rashid Hamid
-    url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.palquest.org/sites/default/files/What_is_the_PLO-Rashid_Hamid.pdf
-    type: Scholarly Article (Supplemental)
+    url: https://www.palquest.org/sites/default/files/What_is_the_PLO-Rashid_Hamid.pdf
+    type: Journal article (Supplemental)
     year: "1975"
   - title: "Soul in Exile: Lives of a Palestinian Revolutionary,"
     author: Fawaz Turki
@@ -72,8 +75,8 @@ readings:
   - title: Strategy for the Liberation of Palestine
     author: PFLP
     year: "1969"
-    type: Book
-    url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pflp-documents.org/documents/PFLP_StrategyforLiberationofPalestine1969.pdf
+    type: Primary source (Supplemental)
+    url: https://pflp-documents.org/documents/PFLP_StrategyforLiberationofPalestine1969.pdf
 discussionQuestions:
   - question: "Meaning of revolution: the Palestinian revolution for Abed is for him
       not reducible to the overthrow or replacement of a regime, so much as the
@@ -94,6 +97,6 @@ discussionQuestions:
 spotifyLink: https://open.spotify.com/episode/0vsi6QOmqr02qsnb7ak3Gu?si=13c0e7ec93b14fa0
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664741984
 audioLink: https://content.blubrry.com/thedig/The_Dig-Ep_451-Takriti.mp3
-image:
+image: /assets/images/episode-14-palestinian-revolution-2.png
 hasTranscript: false
 ---
