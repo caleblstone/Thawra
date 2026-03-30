@@ -14,7 +14,7 @@ readings:
   - title: The Nakba Generation
     author: "Karma Nabulsi and Abdel Razzaq Takriti "
     year: "2016"
-    type: Digital article (Recommended)
+    type: Course module (Recommended)
     url: https://learnpalestine.qeh.ox.ac.uk/teach/week/2
   - title: "Egypt: Military Society; the Army Regime, the Left, and Social Change
       under Nasser"
@@ -66,12 +66,12 @@ readings:
   - url: https://www.madamasr.com/en/2023/03/25/feature/economy/reading-turath-in-ahmed-sadiq-saads-texts/
     title: Reading turath in Ahmed Sadiq Saad’s texts
     author: Nasr Hamid Abu Zeid
-    type: Article (Supplementary)
+    type: Essay (Supplementary)
     year: "2023"
   - url: https://www.palquest.org/en/biography/14267/muin-bseiso
     title: Biography of Muin Bseiso
     author: The Interactive Encyclopedia of the Palestine Question
-    type: Article (Supplementary)
+    type: Biography (Supplementary)
     year: "2002"
 discussionQuestions:
   - question: "The Nakba was a terrible tragedy for the Palestinian people, though
