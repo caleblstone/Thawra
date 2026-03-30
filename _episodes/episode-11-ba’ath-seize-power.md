@@ -17,22 +17,22 @@ readings:
   - title: "The Arab Ba'ath Socialist Party: History, Ideology and Organization"
     author: Kamel S. Abu Jaber
     year: "1966"
-    type: Book
+    type: Book (Recommended)
     url: https://archive.org/details/dokumen.pub_the-arab-bath-socialist-party-history-ideology-and-organization_202601
   - title: Authoritarian Power And State Formation In Ba`thist Syria Army, Party,
       And Peasant
     author: Raymond Hinnebusch
-    type: Book
+    type: Book (Recommended)
     year: "1990"
     url: https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abs/raymond-a-hinnebusch-authoritarian-power-and-state-formation-in-bathist-syria-army-party-and-peasant-boulder-colo-westview-press-1990-pp-350/A442DC1F2A99573FAE01307BB04DA053
   - title: Syria's Peasantry, the Descendants of Its Lesser Rural Notables, and
       Their Politics
-    author: Hanna Batutu
+    author: Hanna Batatu
     year: "1999"
     url: https://press.princeton.edu/books/hardcover/9780691002545/syrias-peasantry-the-descendants-of-its-lesser-rural-notables-and
-    type: Book
+    type: Book (Recommended)
   - url: https://www.youtube.com/watch?v=y4C8IO7KcA0
-    type: Interview
+    type: Interview (Supplementary)
     title: "The Ba'athist coup in Iraq against Abdul Karim Qasim: Interview with
       Iraqi Prime Minister Arif Abd al-Razzaq"
     author: Al-Jazeera
@@ -41,7 +41,7 @@ readings:
     title: Dreams of the City
     author: Mohammad Malas
     year: "1958"
-    type: Film
+    type: Film (Supplementary)
 discussionQuestions:
   - question: "The Ba’ath party underwent a series of transformations in this
       period, from a dissident intellectual movement to a party wedded to Syrian
