@@ -24,7 +24,7 @@ readings:
     author: Abdel Razzaq Takriti
     year: "2019"
     type: Journal article (Recommended)
-    url: https://www.jstor.org/stable/27126957
+    url: https://archive.org/details/colonial-coups_202603
   - title: "State and Society in the Gulf and Arab Peninsula: A Different Perspective"
     author: "Khaldoun al-Naqeeb "
     year: "1990"
