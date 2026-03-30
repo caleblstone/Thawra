@@ -44,13 +44,13 @@ readings:
   - title: Ma'loul Celebrates Its Destruction
     author: Michel Khleifi
     year: "1984"
-    type: Short Film
+    type: Short film (Supplementary)
     url: https://www.criterionchannel.com/ma-loul-celebrates-its-destruction
   - title: The Land
     author: "Youssef Chahine "
     year: "1970"
     url: https://www.criterionchannel.com/videos/the-land
-    type: Film
+    type: Film (Supplementary)
 discussionQuestions:
   - question: What were the early forms and expressions of European imperialism in
       the late Ottoman period?
