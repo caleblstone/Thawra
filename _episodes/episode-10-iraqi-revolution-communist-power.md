@@ -38,7 +38,7 @@ readings:
     title: "Hanna Batatu: Biography and Journey"
     author: Arab Council for the Social Sciences
     year: "2019"
-    type: Short Documentary (Supplementary)
+    type: Short documentary (Supplementary)
 discussionQuestions:
   - question: "Why do you think Iraq’s political program after the July revolution
       goes further than Syria or Egypt in terms of labor and land reform?  "
