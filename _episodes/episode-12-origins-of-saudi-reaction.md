@@ -26,7 +26,7 @@ readings:
     author: Rosie Bsheer
     url: https://academic.oup.com/past/article-abstract/238/1/233/4791154?redirectedFrom=fulltext#no-access-message
     year: "2018"
-    type: Journal Article (Recommended)
+    type: Journal article (Recommended)
   - title: "Graveyard of Clerics: Everyday Activism in Saudi Arabia"
     author: Pascale Minoret
     year: "2020"
@@ -35,7 +35,7 @@ readings:
   - title: "The Arabian Peninsula Opposition Movements "
     author: MERIP
     year: "1985"
-    type: Journal Article (Supplementary)
+    type: Journal article (Supplementary)
     url: https://www.merip.org/1985/02/the-arabian-peninsula-opposition-movements/?utm_source=chatgpt.com
   - title: Capitalism and Class in the Gulf Arab States
     author: Adam Hanieh
