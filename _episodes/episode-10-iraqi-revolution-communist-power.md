@@ -26,14 +26,14 @@ readings:
       Movements, and the Left 1924-2004"
     author: Ilario Salucci
     year: "2005"
-    type: Book
+    type: Book (Supplementary)
     url: https://archive.org/details/a-peoples-history-of-iraq-the-iraqi-communist-party-workers-movements-and-the-le
   - url: https://www.sup.org/books/middle-east-studies/paranoid-style-american-diplomacy
     title: "The Paranoid Style in American Diplomacy: Oil and Arab Nationalism in
       Iraq"
     author: Brandon Wolfe-Hunnicutt
     year: "2021"
-    type: Book (Recommended)
+    type: Book (Supplementary)
   - url: https://www.youtube.com/watch?v=9eiRe6jwQj8
     title: "Hanna Batatu: Biography and Journey"
     author: Arab Council for the Social Sciences
