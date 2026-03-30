@@ -13,12 +13,17 @@ shortDescription: We address the Palestinian revolution in Lebanon, Syria, and
   Jordanian state and the violent expulsion of PLO guerillas that followed
   during Black September.
 readings:
+  - title: The Palestinian Revolution
+    author: Karma Nabulsi and Abdel Razzaq Takriti
+    year: "2016"
+    type: Digital archive (Recommended)
+    url: https://learnpalestine.qeh.ox.ac.uk/
   - title: Al-Muqawama al-Filastiniya wa-an-Niẓām al-Urduniyya
     author: "Palestinian Research Centre "
     year: "1971"
     url: https://learnpalestine.qeh.ox.ac.uk/uploads/sources/588c815fb4ff3.pdf
-    type: Primary source (compiled)
-  - type: Primary source
+    type: Primary source (Recommended)
+  - type: Primary source (Recommended)
     author: Umar Mahjub
     title: September in South Jordan
     year: 2009 (publication date; written c. 1977)
@@ -26,28 +31,28 @@ readings:
   - title: "My Home, My Land: A Narrative of the Palestinian Struggle"
     author: Abu Iyad
     year: "1981"
-    type: Book
-    url: https://dokumen.pub/my-home-my-land-a-narrative-of-the-palestinian-struggle-0812909364-9780812909364.html
+    type: Book (Recommended)
+    url: https://archive.org/details/my-home-my-land-a-narrative-of-the-palestinian-struggle-0812909364-9780812909364_compress
   - title: "The Politics of Dispossession: the Struggle for Palestinian
       Self-Determination, 1969 - 1994"
     author: Edward W. Said
     year: "1994"
-    type: Book
+    type: Book (Supplemental)
     url: https://www.rahs-open-lid.com/wp-content/uploads/2024/01/Said-Edward-W.-The-Politics-of-Dispossession_-The-Struggle-for-Palestinian-Self-Determination-1969-1994-Vintage-2012.pdf
   - title: 1970 - The Last Days
     author: Sonallah Ibrahim
     url: https://press.uchicago.edu/ucp/books/book/distributed/Other/bo208646398.html
     year: "2024"
-    type: Book
+    type: Book (Supplemental)
   - title: Prisoner of Love
     author: Jean Genet
     url: https://www.penguinrandomhouse.com/books/59045/prisoner-of-love-by-jean-genet-introduction-by-ahdaf-soueif-translated-by-barbara-bray/
     year: "1986"
-    type: Book
+    type: Book (Supplemental)
   - title: They Do Not Exist
     author: Mustafa Abu Ali
     year: "1974"
-    type: Film
+    type: Film (Supplemental)
     url: https://www.youtube.com/watch?v=2WZ_7Z6vbsg
 discussionQuestions:
   - question: "Abed offers a definition and theory of revolution in this episode,
