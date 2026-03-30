@@ -17,6 +17,17 @@ readings:
     author: Hannah Batatu
     year: "2004"
     type: Book (Recommended)
+  - title: The Rise and Fall of the Communist Party of Iraq
+    author: Tareq Y. Ismael
+    year: "2008"
+    type: Book (Recommended)
+    url: https://archive.org/details/the-rise-and-fall-of-the-communist-party-of-iraq-pg-15-155
+  - title: "A People's History of Iraq: The Iraqi Communist Party, Workers'
+      Movements, and the Left 1924-2004"
+    author: Ilario Salucci
+    year: "2005"
+    type: Book
+    url: https://archive.org/details/a-peoples-history-of-iraq-the-iraqi-communist-party-workers-movements-and-the-le
   - url: https://www.sup.org/books/middle-east-studies/paranoid-style-american-diplomacy
     title: "The Paranoid Style in American Diplomacy: Oil and Arab Nationalism in
       Iraq"
@@ -24,7 +35,7 @@ readings:
     year: "2021"
     type: Book (Recommended)
   - url: https://www.youtube.com/watch?v=9eiRe6jwQj8
-    title: "Hanna Batutu: Biography and Journey"
+    title: "Hanna Batatu: Biography and Journey"
     author: Arab Council for the Social Sciences
     year: "2019"
     type: Short Documentary (Supplementary)
