@@ -16,18 +16,18 @@ readings:
   - title: "Memory for Forgetfulness: August, Beirut, 1982"
     author: Mahmoud Darwish
     year: "1982"
-    type: Primary Source
+    type: Primary source (Recommended)
     url: https://archive.org/details/memory-for-forgetfulness-august-beirut-1982
   - title: "Sabra and Shatila: September 1982"
     author: Bayan al-Hout
     year: "2004"
-    type: Book
+    type: Book (Recommended)
     url: https://www.plutobooks.com/product/sabra-and-shatila/
   - title: Lament for the Revolution
     author: Karma Nabulsi
     url: https://www.lrb.co.uk/the-paper/v32/n20/karma-nabulsi/diary
     year: "2010"
-    type: Essay
+    type: Essay (Recommended)
   - title: "Mouin al-Taher: Epics of Steadfastness in Lebanon"
     author: Elias Khoury and Michel Nawfal
     year: "2013"
@@ -41,17 +41,17 @@ readings:
   - title: "Pity the Nation: Lebanon at War"
     author: Robert Fisk
     year: "1990"
-    type: Book (Supplementary
+    type: Book (Supplementary)
     url: https://global.oup.com/academic/product/pity-the-nation-9780192801302?lang=en&cc=nl
   - title: Leila and the Wolves
     author: Henry Srour
-    type: Documentary
+    type: Documentary (Supplementary)
     url: https://www.ovid.tv/videos/leila-and-the-wolves
     year: "1984"
   - title: "Israel in Lebanon: Report of the International Commission to Enquire
       into Reported Violations of International Law by Israel During its
       Invasion of the Lebanon"
-    type: "Primary source "
+    type: Primary source (Supplementary)
     year: "1983"
     author: Sean MacBride et al.
     url: https://www.palestine-studies.org/sites/default/files/attachments/jps-articles/2536156.pdf
