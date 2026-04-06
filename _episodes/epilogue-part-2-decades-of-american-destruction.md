@@ -59,6 +59,31 @@ discussionQuestions:
   - question: "Why does Iraq play such a large role historically in the security
       considerations and geopolitical ambitions of so many imperialist and
       regional powers? "
+  - question: "How does the US invasion of Iraq come to sectarianize Iraqi politics? "
+  - question: "There is a fascinating moment that Abed describes in the run up to
+      the Arab spring in which there is a nascent Left-Islamist unity, bound
+      together by programming on Al Jazeera, salons for its realization in the
+      region, etc. How does Abed describe this nascent alliance and what were
+      the challenges to its realization? "
+  - question: "Syria’s Assad regime was sometimes defended on the basis of its
+      pro-Palestinian or anti-imperialist credentials. After listening to this
+      episode, what do you make of such a characterization? "
+  - question: "In an earlier episode, the Muslim Brotherhood were described as the
+      ultimate Gramscians - charting a long and winding war of position through
+      Arab civil society, constructing charities and mosques and educational
+      associations, and building up clandestine political organizations often
+      alongside it. How do you, and how does the series, appraise this strategy
+      employed in most countries of the region over the course of decades
+      covered by the show? "
+  - question: "Arab spring : why do you think it encountered the political limits
+      that it did? What does that suggest needs to be done? Are these limits
+      unique to the Arab world, or features of protest movements elsewhere too?
+      "
+  - question: "One of the prime stories of the arc of the 20th and 21st centuries in
+      the Mashriq is the shift from the regional balance of power tilting
+      decisively away from Egypt, Syria and Iraq and towards the Gulf States.
+      What accounts for this shift, and what are the consequences of it? "
+  - question: "In what ways is Qatar anomalous compared to other Gulf States? Why? "
 spotifyLink: https://open.spotify.com/episode/3tZq5AG97gyweqbhNfogYi?si=82d49c034cf047a9
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000670114969
 audioLink: https://content.blubrry.com/thedig/The_Dig-EP_458-Takriti.mp3
