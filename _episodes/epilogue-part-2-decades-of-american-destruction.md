@@ -46,6 +46,19 @@ readings:
     year: "2002"
     url: https://www.youtube.com/watch?v=kKul4UV84SA
     type: Film (Supplementary)
+discussionQuestions:
+  - question: "What were the main distinguishing features in the strategies employed
+      by Arafat and Abu Mazin respectively? Why do these figures adopt the
+      positions they do? "
+  - question: What would you say is the most important political effect of the
+      second intifada?
+  - question: "This episode discusses a few different frames for the War on Terror:
+      Tariq Ali’s the Clash of Fundamentalisms, Samuel Huntington’s Clash of
+      Civilizations,  and Dan Denvir’s Crusade Against Jihad. Which of these
+      frames does Abed think is most apt, and why? "
+  - question: "Why does Iraq play such a large role historically in the security
+      considerations and geopolitical ambitions of so many imperialist and
+      regional powers? "
 spotifyLink: https://open.spotify.com/episode/3tZq5AG97gyweqbhNfogYi?si=82d49c034cf047a9
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000670114969
 audioLink: https://content.blubrry.com/thedig/The_Dig-EP_458-Takriti.mp3
