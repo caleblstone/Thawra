@@ -51,7 +51,7 @@ readings:
     year: "1970"
     author: Kais al-Zubaidi
     type: Short Film (Supplementary)
-    url: https://drive.google.com/file/u/1/d/1rFbp9Qtn3PYJvaX6JQAWOfUu70LX856h/view?usp=drive_link&pli=1
+    url: https://drive.google.com/file/d/1rFbp9Qtn3PYJvaX6JQAWOfUu70LX856h/view
 discussionQuestions:
   - question: "This moment is the explosion of radical and mass-politically oriented
       ideologies. What were the broad historical conditions of possibility for
