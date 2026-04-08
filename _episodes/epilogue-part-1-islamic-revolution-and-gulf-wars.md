@@ -36,6 +36,12 @@ readings:
     year: "2022"
     type: Book chapter (Recommended)
     url: https://www.peterlang.com/document/1062267
+  - url: https://soundcloud.com/user-573322475/episode-161-the-politics-and-poetics-of-palestinian-kurdish-affiliation-w-dr-abed-takriti
+    title: The Politics and Poetics of Palestinian-Kurdish Affiliation w/ Abdel
+      Razzaq Takriti
+    author: The Kurdish Edition
+    year: "2022"
+    type: Podcast miniseries (Supplemental)
   - title: History of Modern Iran
     author: The Dig
     year: "2022"
