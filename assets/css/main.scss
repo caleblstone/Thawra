@@ -23,6 +23,18 @@ $body-text-line-height: 1.5em;
     font-style: normal;
 }
 
+a {
+    text-decoration: none;
+    color: $base-black;
+}
+a:hover {
+    color: $link-color;
+}
+
+p a {
+    text-decoration: underline;
+}
+
 html, body {
     margin: 0px;
     padding: 0px;
@@ -161,6 +173,7 @@ footer {
             p {
                 margin: 0 0 4px 0;
                 font-size: 12px;
+                line-height: $body-text-line-height;
                 color: darkgray;
             }
             a {
