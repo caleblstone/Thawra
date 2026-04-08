@@ -42,7 +42,7 @@ readings:
     author: Robert Fisk
     year: "1990"
     type: Book (Supplementary)
-    url: https://global.oup.com/academic/product/pity-the-nation-9780192801302?lang=en&cc=nl
+    url: https://annas-archive.gl/md5/57da4b01678d6d7f067cf421505ab5a3
   - title: Leila and the Wolves
     author: Henry Srour
     type: Documentary (Supplementary)
