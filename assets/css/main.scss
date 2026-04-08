@@ -109,8 +109,8 @@ footer {
 
     .footer-inner {
         display: flex;
-        justify-content: space-between;
-        align-items: flex-start;
+        flex-direction: column;
+        gap: 24px;
 
         .footer-brand a {
             font-family: 'Gravity';
@@ -123,9 +123,18 @@ footer {
             color: $link-color;
         }
 
-        .footer-about {
-            max-width: 360px;
+        .footer-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 48px;
+        }
 
+        .footer-about, .footer-credits {
+            flex: 1;
+        }
+
+        .footer-about {
             h4 {
                 margin: 0 0 8px 0;
                 color: $base-white;
@@ -135,6 +144,30 @@ footer {
                 font-size: 12px;
                 line-height: $body-text-line-height;
                 color: darkgray;
+            }
+            a {
+                color: darkgray;
+            }
+            a:hover {
+                color: $link-color;
+            }
+        }
+
+        .footer-credits {
+            h4 {
+                margin: 0 0 8px 0;
+                color: $base-white;
+            }
+            p {
+                margin: 0 0 4px 0;
+                font-size: 12px;
+                color: darkgray;
+            }
+            a {
+                color: darkgray;
+            }
+            a:hover {
+                color: $link-color;
             }
         }
 
@@ -152,11 +185,6 @@ footer {
             }
         }
 
-        .footer-copy p {
-            margin: 0;
-            font-size: 12px;
-            color: darkgray;
-        }
     }
 }
 
@@ -661,11 +689,8 @@ footer {
     }
 
     footer .footer-inner {
-        flex-direction: column;
-        gap: 24px;
-
-        .footer-about {
-            max-width: 100%;
+        .footer-top {
+            flex-direction: column;
         }
 
         .footer-links {
