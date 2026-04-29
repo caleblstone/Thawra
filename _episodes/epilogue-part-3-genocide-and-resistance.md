@@ -26,21 +26,6 @@ readings:
     type: Film (Recommended)
     author: Eyal Sivan
     url: https://dafilms.com/film/8844-izkor-slaves-of-memory
-  - title: Phenomenal World series
-    url: https://www.phenomenalworld.org/author/dylan-saba/
-    year: "2024"
-    type: Digital article (Recommended)
-    author: Dylan Saba
-  - title: Import the War, Export the Border
-    url: https://www.nplusonemag.com/online-only/online-only/import-the-war-export-the-border/
-    author: Dylan Saba
-    type: Digital article (Supplemental)
-    year: "2026"
-  - author: Dylan Saba
-    year: "2025"
-    title: Wave of Domination
-    type: Digital article (supplemental)
-    url: https://www.nplusonemag.com/online-only/online-only/wave-of-domination/
   - url: https://www.kanopy.com/en/product/justwatch-16127098?utm_source=justwatch&frontend=kui
     title: From Ground Zero
     author: Rashid Mashrawi and Gaza filmmakers
