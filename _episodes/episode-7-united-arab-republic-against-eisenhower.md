@@ -67,11 +67,6 @@ readings:
     url: https://www.scribd.com/document/491565479/The-Cold-War-and-the-Middle-East-pdf
     type: Book (Supplementary)
     year: "1997"
-  - title: "Washington Bullets: A History of the Cia, Coups, and Assassinations"
-    author: "Vijay Prashad "
-    url: https://dialecticalartist.wordpress.com/wp-content/uploads/2021/03/washington-bullets-by-vijay-prashad-.pdf
-    type: Book (Supplementary)
-    year: "2020"
   - title: "1958 Reconsidered: State Formation and the Cold War in the Early
       Postcolonial Arab Middle East"
     url: https://www.jstor.org/stable/43303030
