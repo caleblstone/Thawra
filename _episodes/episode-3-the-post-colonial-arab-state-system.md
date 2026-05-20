@@ -8,13 +8,13 @@ shortDescription: "A comprehensive overview of the Middle Eastern Arab state
   system that crystallized with the end of British and French colonial rule. "
 readings:
   - title: "Over-stating the Arab State: Politics and Society in the Middle East,"
-    author: Nazih Ayoubi
+    author: Nazih Ayubi
     url: https://archive.org/details/overstatingarabs0000ayub
     year: "2009"
     type: Book (Recommended)
   - title: "Contested Modernity: Sectarianism, Nationalism, and Colonialism in
       Bahrain"
-    author: Omar Al-Shehabi
+    author: Omar H. AlShehabi
     year: "2025"
     type: Book (Recommended)
     url: https://www.abebooks.com/9781786072917/Contested-Modernity-Sectarianism-Nationalism-Colonialism-1786072912/plp
@@ -38,7 +38,7 @@ readings:
   - url: https://shedet.journals.ekb.eg/article_327024_bc0d552857c40047c22c58720c96a5aa.pdf
     title: "Visualizing the Egyptian 1919 Revolution: Unveiling Some Hidden Aspects
       of the British Policy in Egypt through Photo Analysis"
-    author: Fatma Mohamed Fowzy, Doaa Adel Kandila, Omaima El-Shalb
+    author: Fatma Mohamed Fowzy, Doaa Adel Kandil, Omaima El-Shal
     type: Photo analysis (Supplemental)
     year: "2023"
   - title: Horse of Mud
@@ -47,7 +47,7 @@ readings:
     url: https://youtu.be/KxkX5lGJEr8
     type: Short documentary (Supplementary)
   - title: Cities of Salt
-    author: "Abdulrahman Munif "
+    author: Abdelrahman Munif
     year: "1984"
     type: Novel (Supplementary)
     url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduate/masters/modules/resourcefictions/oil09/cities_of_salt_-_abdelrahman_munif.pdf
