@@ -14,7 +14,7 @@ shortDescription: Abdel and Dan anatomize Saudi Arabia, a country whose
 readings:
   - title: The History of Saudi Arabia
     type: Book (Recommended)
-    author: Alexei Vassiliev
+    author: Alexei Vasiliev
     url: https://saqibooks.com/books/saqi/the-history-of-saudi-arabia/
     year: "2000"
   - url: https://www.scribd.com/document/599166300/A-History-of-Saudi-Arabia-Madawi-al-Rasheed-z-lib-org
@@ -28,7 +28,7 @@ readings:
     year: "2018"
     type: Journal article (Recommended)
   - title: "Graveyard of Clerics: Everyday Activism in Saudi Arabia"
-    author: Pascale Minoret
+    author: Pascal Menoret
     year: "2020"
     url: https://www.sup.org/books/middle-east-studies/graveyard-clerics
     type: Book (Supplementary)
