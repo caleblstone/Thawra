@@ -14,7 +14,7 @@ shortDescription: "We learn the story of Iraq’s 1958 July Revolution: a Free
 readings:
   - url: https://bnk.institutkurde.org/images/pdf/TGHVQ3DFRA.pdf
     title: The Old Social Classes and the Revolutionary Movements of Iraq
-    author: Hannah Batatu
+    author: Hanna Batatu
     year: "2004"
     type: Book (Recommended)
   - title: The Rise and Fall of the Communist Party of Iraq
