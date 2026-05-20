@@ -67,7 +67,7 @@ readings:
     url: https://www.palquest.org/sites/default/files/What_is_the_PLO-Rashid_Hamid.pdf
     type: Journal article (Supplemental)
     year: "1975"
-  - title: "Soul in Exile: Lives of a Palestinian Revolutionary,"
+  - title: "Soul in Exile: Lives of a Palestinian Revolutionary"
     author: Fawaz Turki
     year: "1988"
     type: Book (Supplemental)
