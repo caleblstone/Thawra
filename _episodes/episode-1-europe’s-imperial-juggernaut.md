@@ -22,12 +22,12 @@ readings:
     type: Book (Recommended)
   - title: Palestine in Transformation, 1856-1882, Studies in Social, Economic, and
       Political Development
-    author: Alexander Scholch
+    author: Alexander Schölch
     year: "1993"
     url: https://yplus.ps/wp-content/uploads/2021/01/Scholch-Alexander-Palestine-in-Transformation-1856-1882.pdf
     type: Book (Recommended)
   - title: "Imperial Identities: Stereotyping, Prejudice,and Race in Colonial Algeria"
-    author: Patricia Lorcin
+    author: Patricia M. E. Lorcin
     url: https://archive.org/details/imperialidentiti0000lorc
     year: "1995"
     type: Book (Recommended)
