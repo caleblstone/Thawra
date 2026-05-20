@@ -20,7 +20,7 @@ readings:
     url: https://www.scribd.com/document/978936657/Walid-W-Kazziha-Revolutionary-Transformation-in-the-Arab-World-Habash-and-His-Comrades-From-Nationalism-to-Marxism-1975
     type: Book (Recommended)
   - title: The Arab Lefts, Histories and Legacies, 1950s–1970s
-    author: Laure Guirgis
+    author: Laure Guirguis
     type: Book (Recommended)
     year: "2020"
     url: https://archive.org/details/document_20260113
