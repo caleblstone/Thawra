@@ -15,8 +15,7 @@ shortDescription: >
   movement expose about the reality of the Zionist project and indigenous
   resistance to that project in post-Oslo Palestine?
 readings:
-  - title: '"Justice as the Way Forward" in Where Now for Palestine?: The Demise of
-      the Two-State Solution'
+  - title: Justice as the Way Forward
     author: Karma Nabulsi
     year: "2006"
     type: Book Chapter
@@ -33,8 +32,7 @@ readings:
     year: "2023"
     type: Book
   - author: Sara Ababneh
-    title: '“Troubling the Political: Women in the Jordanian Day-Waged Labor
-      Movement"'
+    title: "Troubling the Political: Women in the Jordanian Day-Waged Labor Movement"
     type: Journal Article
     url: https://www.jstor.org/stable/43998792
     year: "2016"
