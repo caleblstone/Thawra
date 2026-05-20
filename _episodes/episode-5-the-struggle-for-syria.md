@@ -22,12 +22,12 @@ readings:
     author: Eric Rouleau
     year: "1967"
   - title: Al Yazerli
-    author: Qais Al-Zubaidi
+    author: "Kais al-Zubaidi "
     year: "1974"
     url: https://vk.com/video547001063_456241881
     type: Film (Supplementary)
   - title: Everyday Life in a Syrian Village
-    author: Omar Amiralay & Saadallah Wannus
+    author: Omar Amiralay and Saadallah Wannous
     year: "1974"
     url: https://dafilms.com/film/8108-everyday-life-in-a-syrian-village
     type: Film (Supplementary)
