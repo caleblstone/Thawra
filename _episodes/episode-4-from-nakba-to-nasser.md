@@ -18,7 +18,7 @@ readings:
     url: https://learnpalestine.qeh.ox.ac.uk/teach/week/2
   - title: "Egypt: Military Society; the Army Regime, the Left, and Social Change
       under Nasser"
-    author: "Anouar Abdel Malek "
+    author: "Anouar Abdel-Malek "
     year: "1968"
     type: Book (Recommended)
     url: https://archive.org/details/egyptmilitarysoc0000abde
@@ -38,7 +38,7 @@ readings:
     type: Speech (Supplementary)
     url: http://nasser.bibalex.org/TextViewer.aspx?TextID=SPCH-495-ar
   - title: Nasser 56
-    author: Mohamed Fadel
+    author: " Mohammad Fadel"
     year: "1996"
     url: https://www.youtube.com/watch?v=UE3n1G-Sln8
     type: Film (Supplementary)
@@ -49,7 +49,7 @@ readings:
     url: https://www.youtube.com/watch?v=H7FML0wzJ6A
   - title: "The Secret Life of Saeed, the Ill-Fated Pessoptimist: A Palestinian Who
       Became a Citizen of Israel"
-    author: Emile Habibe
+    author: Emile Habibi
     year: "2010"
     type: Book (Supplementary)
     url: https://www.hauspublishing.com/product/the-secret-life-of-saeed-the-pessoptimist/
@@ -65,7 +65,7 @@ readings:
     year: "1974"
   - url: https://www.madamasr.com/en/2023/03/25/feature/economy/reading-turath-in-ahmed-sadiq-saads-texts/
     title: Reading turath in Ahmed Sadiq Saad’s texts
-    author: Nasr Hamid Abu Zeid
+    author: Nasr Abu Zaid
     type: Essay (Supplementary)
     year: "2023"
   - url: https://www.palquest.org/en/biography/14267/muin-bseiso
