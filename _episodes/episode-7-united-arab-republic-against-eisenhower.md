@@ -63,7 +63,7 @@ readings:
     year: "2007"
     type: Book (Supplementary)
   - title: The Cold War and the Middle East
-    author: "Yezid Sayegh and Avi Shlaim "
+    author: " Yezid Sayigh and Avi Shlaim "
     url: https://www.scribd.com/document/491565479/The-Cold-War-and-the-Middle-East-pdf
     type: Book (Supplementary)
     year: "1997"
