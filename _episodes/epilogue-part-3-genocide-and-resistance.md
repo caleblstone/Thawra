@@ -21,6 +21,11 @@ readings:
     title: Iran and the Axis of Resistance
     year: "2025"
     type: Article (Recommended)
+  - title: Culmination
+    author: Eskandar Sadeghi-Boroujerdi
+    year: "2025"
+    url: https://newleftreview.org/sidecar/posts/culmination
+    type: Magazine Article
   - title: Who Will Hang the Bell?
     year: "2021"
     type: Journal Article (Recommended)
@@ -32,6 +37,11 @@ readings:
     author: Nimer Sultany
     year: "2024"
     type: Journal Article (Recommended)
+  - url: https://pchrgaza.org/voices-of-the-genocide-a-report-by-the-palestinian-centre-for-human-rights-on-the-israeli-occupations-perpetuation-of-genocide-targeting-the-palestinian-existence-the-gaza/
+    title: Voices of the Genocide
+    author: Palestinian Centre for Human Rights
+    year: "2025"
+    type: Report
 discussionQuestions:
   - question: Early in the episode, Abed sketches out a series of strategic wagers
       that different parts of the Palestinian National Movement put forward in
