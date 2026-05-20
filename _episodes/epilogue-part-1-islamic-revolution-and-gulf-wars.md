@@ -20,7 +20,7 @@ readings:
     author: Khaled Hroub
     year: "2000"
     type: Book (Recommended)
-  - author: Rasmus Elling & Sune Haugbole (eds.)
+  - author: Rasmus Elling & Sune Haugbølle (eds.)
     title: "The Fate of Third Worldism in the Middle East: Iran, Palestine and Beyond"
     url: https://www.simonandschuster.com/books/The-Fate-of-Third-Worldism-in-the-Middle-East/Rasmus-C-Elling/Radical-Histories-of-the-Middle-East/9780861547289
     type: Book (Recommended)
@@ -28,7 +28,7 @@ readings:
   - title: "Revolution and its Discontents: Political Thought and Reform in Iran"
     url: https://www.cambridge.org/core/books/revolution-and-its-discontents/2682E13B5F161E6927F3382921E2C8FE
     year: "2019"
-    author: Eskandar Sadeghi-Boroujerdi,
+    author: Eskandar Sadeghi-Boroujerdi
     type: Book (Recommended)
   - author: Abdel Razzaq Takriti
     title: "The Kurds and the Wind: the politics and poetics of Palestinian-Kurdish
