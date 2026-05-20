@@ -26,7 +26,7 @@ readings:
     type: Journal article (Recommended)
     url: https://archive.org/details/colonial-coups_202603
   - title: "State and Society in the Gulf and Arab Peninsula: A Different Perspective"
-    author: "Khaldoun al-Naqeeb "
+    author: Khaldoun al-Naqeeb
     year: "1990"
     type: Book (Recommended)
     url: https://www.khaldounalnaqeeb.com/UploadedFiles/books/B6/B6.pdf
