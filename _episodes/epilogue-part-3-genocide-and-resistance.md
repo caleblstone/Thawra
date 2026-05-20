@@ -11,26 +11,27 @@ shortDescription: This episode takes us from Hamas’s victory in the 2006
   genocide, the Axis of Resistance, and Israel’s attempt to draw Iran into a
   massive regional war with the US.
 readings:
-  - title: "From the River to the Sea: The Palestine Issue"
-    author: Parapraxis
+  - title: "The Foreign Policy of Hamas "
+    author: Leila Seurat
+    year: "2022"
+    type: Book (Recommended)
+    url: https://www.bloomsbury.com/us/foreign-policy-of-hamas-9781838607449/
+  - url: https://www.jadaliyya.com/Details/46685
+    author: Eskandar Sadeghi Boroujerdi
+    title: Iran and the Axis of Resistance
+    year: "2025"
+    type: Article (Recommended)
+  - title: Who Will Hang the Bell?
+    year: "2021"
+    type: Journal Article (Recommended)
+    author: Abdel Razzaq Takriti
+    url: https://www.jstor.org/stable/48746404
+  - url: https://www.tandfonline.com/doi/full/10.1080/14623528.2024.2351261
+    title: "A Threshold Crossed: On Genocidal Intent and the Duty to Prevent
+      Genocide in Palestine"
+    author: Nimer Sultany
     year: "2024"
-    type: Magazine Issue (Recommended)
-    url: https://www.parapraxismagazine.com/articles/tag/Palestine
-  - url: https://www.versobooks.com/products/3293-from-the-river-to-the-sea
-    author: Sai Englert, Michal Schatz and Rosie Warren
-    title: "From the River to the Sea: Essays for a Free Palestine"
-    year: "2023"
-    type: Ebook (Recommended)
-  - title: Izkor, Slaves of Memory
-    year: "1991"
-    type: Film (Recommended)
-    author: Eyal Sivan
-    url: https://dafilms.com/film/8844-izkor-slaves-of-memory
-  - url: https://www.kanopy.com/en/product/justwatch-16127098?utm_source=justwatch&frontend=kui
-    title: From Ground Zero
-    author: Rashid Mashrawi and Gaza filmmakers
-    year: "2024"
-    type: Film (Supplementary)
+    type: Journal Article (Recommended)
 discussionQuestions:
   - question: Early in the episode, Abed sketches out a series of strategic wagers
       that different parts of the Palestinian National Movement put forward in
