@@ -17,7 +17,7 @@ readings:
     type: Book (Recommended)
     url: https://www.bloomsbury.com/us/foreign-policy-of-hamas-9781838607449/
   - url: https://www.jadaliyya.com/Details/46685
-    author: Eskandar Sadeghi Boroujerdi
+    author: "Eskandar Sadeghi-Boroujerdi "
     title: Iran and the Axis of Resistance
     year: "2025"
     type: Article (Recommended)
