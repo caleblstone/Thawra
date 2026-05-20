@@ -17,7 +17,7 @@ readings:
     type: Book (Recommended)
     year: "2005"
   - title: Foreign Policy as Nation Making Turkey and Egypt in the Cold War
-    author: "Reem Abou El Fadl "
+    author: "Reem Abou-El-Fadl "
     url: https://archive.org/details/foreign-policy-as-nation-making-turkey-and-egypt-in-the-cold-war
     type: Book (Recommended)
     year: "2019"
@@ -50,12 +50,12 @@ readings:
   - url: https://muse.jhu.edu/pub/315/edited_volume/chapter/3259323
     title: "\"Building Egypt's Afro-Asian Hub\" in The Lives of Cold War
       Afro-Asianism"
-    author: " Reem Abou El Fadl"
+    author: " Reem Abou-El-Fadl"
     year: "2022"
     type: Book Chapter (Supplementary)
   - title: "Making a World after Empire: The Bandung Moment and Its Political
       Afterlives"
-    author: " Christopher E. Lee "
+    author: Christopher J. Lee
     url: https://ohioopen.library.ohio.edu/cgi/viewcontent.cgi?article=1060&context=oupress
     type: Book (Supplementary)
     year: "2019"
