@@ -19,7 +19,7 @@ readings:
     type: Primary source (Recommended)
     url: https://archive.org/details/memory-for-forgetfulness-august-beirut-1982
   - title: "Sabra and Shatila: September 1982"
-    author: Bayan al-Hout
+    author: Bayan Nuwayhed al-Hout
     year: "2004"
     type: Book (Recommended)
     url: https://www.plutobooks.com/product/sabra-and-shatila/
