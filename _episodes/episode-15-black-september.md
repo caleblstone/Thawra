@@ -35,7 +35,7 @@ readings:
     url: https://archive.org/details/my-home-my-land-a-narrative-of-the-palestinian-struggle-0812909364-9780812909364_compress
   - title: "The Politics of Dispossession: the Struggle for Palestinian
       Self-Determination, 1969 - 1994"
-    author: Edward W. Said
+    author: Edward Said
     year: "1994"
     type: Book (Supplemental)
     url: https://www.rahs-open-lid.com/wp-content/uploads/2024/01/Said-Edward-W.-The-Politics-of-Dispossession_-The-Struggle-for-Palestinian-Self-Determination-1969-1994-Vintage-2012.pdf
