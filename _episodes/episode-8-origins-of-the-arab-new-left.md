@@ -19,13 +19,14 @@ readings:
     year: "1975"
     url: https://www.scribd.com/document/978936657/Walid-W-Kazziha-Revolutionary-Transformation-in-the-Arab-World-Habash-and-His-Comrades-From-Nationalism-to-Marxism-1975
     type: Book (Recommended)
-  - title: The Arab Lefts, Histories and Legacies, 1950s–1970s
+  - title: "The Arab Lefts: Histories and Legacies, 1950s–1970s"
     author: Laure Guirguis
     type: Book (Recommended)
     year: "2020"
     url: https://archive.org/details/document_20260113
-  - title: "Chapter 4, Arabic Thought Against The Authoritarian Age: Towards An
-      Intellectual History Of The Present"
+  - title: '"Political Praxis in the Gulf: Ahmad al-Khatib and the Movement of Arab
+      Nationalists, 1948-1969” in Arabic Thought Against The Authoritarian Age,
+      eds. Jens Hanssen and Max Weiss'
     author: Abdel Razzaq Takriti
     url: https://vdoc.pub/download/arabic-thought-against-the-authoritarian-age-towards-an-intellectual-history-of-the-present-6j3egi0evpm0
     type: Book Chapter (Recommended)
