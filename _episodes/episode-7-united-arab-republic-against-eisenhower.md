@@ -24,7 +24,7 @@ readings:
     author: "Nathaniel George "
     url: https://academic.oup.com/ahr/article/130/2/600/8158910?login=false
     type: Journal Article (Recommended)
-    year: "1997"
+    year: "2025"
   - title: "From Arab Nationalism to OPEC:  Eisenhower, King Sa‘ud, and the Making
       of U.S.-Saudi Relations"
     author: Nathan J. Citino
@@ -49,7 +49,7 @@ readings:
   - title: Baghdad Pact
     url: https://avalon.law.yale.edu/20th_century/baghdad.asp
     year: "1955"
-    author: Goverments of UK and Iraq
+    author: Governments of UK and Iraq
     type: Treaty (Supplementary)
   - author: Dwight D. Eisenhower
     year: "1957"
@@ -86,7 +86,7 @@ discussionQuestions:
   - question: "Abed spends some time describing the sectarian organization of the
       post-independence Lebanese state. What was it, and how was it complicated
       by the huge influx of Palestinian refugees into the country? And how do
-      inflamed sectarian tensions and anti-Palestian sentiment produce a
+      inflamed sectarian tensions and anti-Palestinian sentiment produce a
       political crisis in 1958 that results in American marines landing on
       Lebanese shores? "
 spotifyLink: https://open.spotify.com/episode/1jMnq4uNitxZeRUQ5o9MBd?si=6b74f43b45a04e22
