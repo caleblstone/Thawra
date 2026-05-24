@@ -38,7 +38,7 @@ readings:
     type: Speech (Supplementary)
     url: http://nasser.bibalex.org/TextViewer.aspx?TextID=SPCH-495-ar
   - title: Nasser 56
-    author: " Mohammad Fadel"
+    author: " Mohamed Fadel"
     year: "1996"
     url: https://www.youtube.com/watch?v=UE3n1G-Sln8
     type: Film (Supplementary)
@@ -55,10 +55,10 @@ readings:
     url: https://www.hauspublishing.com/product/the-secret-life-of-saeed-the-pessoptimist/
   - title: The Woman from Tantoura
     author: Radwa Ashour
-    year: "2010"
+    year: "2012"
     type: Book (Supplementary)
     url: https://indiepubs.com/products/the-woman-from-tantoura?_pos=1&_sid=48ad7af48&_ss=r
-  - title: Class Conflict in Egypt, 1945-71
+  - title: Class Conflict in Egypt, 1945-70
     author: "Mahmoud Hussein "
     url: https://www.abebooks.com/9780853452331/Class-Conflict-Egypt-1945-1970-Hussein-0853452334/plp
     type: Book (Supplementary)
