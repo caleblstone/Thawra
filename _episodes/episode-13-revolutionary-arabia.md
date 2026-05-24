@@ -25,7 +25,7 @@ readings:
     year: "2019"
     type: Journal article (Recommended)
     url: https://archive.org/details/colonial-coups_202603
-  - title: "State and Society in the Gulf and Arab Peninsula: A Different Perspective"
+  - title: "Society and State in the Gulf and Arab Peninsula: A Different Perspective"
     author: Khaldoun al-Naqeeb
     year: "1990"
     type: Book (Recommended)
@@ -37,27 +37,27 @@ readings:
     url: https://archive.org/details/dokumen.pub_p-d-r-yemen-outpost-of-socialist-development-in-arabia-0863720323-9780863720321
   - title: "Sawt al-Bahrain: A Window onto the Gulf’s Social and Political History"
     author: Wafa Alsayed
-    type: Digital article (Supplemental)
+    type: Digital article (Supplementary)
     url: https://blogs.lse.ac.uk/mec/2020/07/01/sawt-al-bahrain-a-window-onto-the-gulfs-social-and-political-history/
     year: "2020"
   - title: Arabia Without Sultans
     author: "Fred Halliday "
-    type: Book (Supplemental)
+    type: Book (Supplementary)
     year: "1974"
     url: https://archive.org/details/dokumen.pub_arabia-without-sultans
   - title: Red Wolves of Yemen
     author: Vitaly Naumkin
-    year: "2004"
-    type: Book (Supplemental)
+    year: "2003"
+    type: Book (Supplementary)
     url: https://archive.org/details/red-wolves-of-yemen/page/n3/mode/2up
   - title: "Sawt al-Thawra: A Counterarchive of the Dhufar Revolution"
     url: https://revolutionarypapers.org/teaching-tool/sawt-al-thawra/#sawt-al-thawra
     author: Marral Shamshiri
     year: "2022"
-    type: Course module (Supplemental)
+    type: Course module (Supplementary)
   - title: The Hour of Liberation Has Arrived
     author: Heiny Srour
-    type: Film (Supplemental)
+    type: Film (Supplementary)
     url: https://www.ovid.tv/videos/the-hour-of-liberation-has-arrived
     year: "1974"
 discussionQuestions:
