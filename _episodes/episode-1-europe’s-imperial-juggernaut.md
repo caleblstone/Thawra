@@ -20,13 +20,14 @@ readings:
     url: https://www.ucpress.edu/books/age-of-coexistence/paper
     year: "2021"
     type: Book (Recommended)
-  - title: Palestine in Transformation, 1856-1882, Studies in Social, Economic, and
-      Political Development
+  - title: "Palestine in Transformation, 1856-1882: Studies in Social, Economic, and
+      Political Development"
     author: Alexander Schölch
     year: "1993"
     url: https://yplus.ps/wp-content/uploads/2021/01/Scholch-Alexander-Palestine-in-Transformation-1856-1882.pdf
     type: Book (Recommended)
-  - title: "Imperial Identities: Stereotyping, Prejudice,and Race in Colonial Algeria"
+  - title: "Imperial Identities: Stereotyping, Prejudice, and Race in Colonial
+      Algeria"
     author: Patricia M. E. Lorcin
     url: https://archive.org/details/imperialidentiti0000lorc
     year: "1995"
