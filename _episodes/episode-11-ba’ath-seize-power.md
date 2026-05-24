@@ -19,8 +19,8 @@ readings:
     year: "1966"
     type: Book (Recommended)
     url: https://archive.org/details/dokumen.pub_the-arab-bath-socialist-party-history-ideology-and-organization_202601
-  - title: Authoritarian Power And State Formation In Ba`thist Syria Army, Party,
-      And Peasant
+  - title: "Authoritarian Power and State Formation in Ba'thist Syria: Army, Party,
+      and Peasant"
     author: Raymond Hinnebusch
     type: Book (Recommended)
     year: "1990"
@@ -40,7 +40,7 @@ readings:
   - url: https://drive.google.com/file/d/1ZEjKVDPCph5OVuNyP0SrGVK_jVsnGgAE/view
     title: Dreams of the City
     author: Mohammad Malas
-    year: "1958"
+    year: "1984"
     type: Film (Supplementary)
 discussionQuestions:
   - question: "The Ba’ath party underwent a series of transformations in this
