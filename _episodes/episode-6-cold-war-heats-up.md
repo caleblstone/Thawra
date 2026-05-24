@@ -20,9 +20,9 @@ readings:
     author: "Reem Abou-El-Fadl "
     url: https://archive.org/details/foreign-policy-as-nation-making-turkey-and-egypt-in-the-cold-war
     type: Book (Recommended)
-    year: "2019"
-  - title: “Arab Socialism” in Van Der Linden, Marcel (ed.). Cambridge History of
-      Socialism
+    year: "2018"
+  - title: '"Arab Socialism," in The Cambridge History of Socialism, ed. Marcel van
+      der Linden'
     author: Abdel Razzaq Takriti and Hicham Safieddine
     year: "2022"
     type: Book Chapter (Recommended)
@@ -58,7 +58,7 @@ readings:
     author: Christopher J. Lee
     url: https://ohioopen.library.ohio.edu/cgi/viewcontent.cgi?article=1060&context=oupress
     type: Book (Supplementary)
-    year: "2019"
+    year: "2010"
 discussionQuestions:
   - question: "Scholars have increasingly discussed the Cold War not only as a
       globe-bestriding conflict between two ideologically opposed
