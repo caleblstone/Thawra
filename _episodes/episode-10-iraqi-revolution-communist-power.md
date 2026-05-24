@@ -15,7 +15,7 @@ readings:
   - url: https://bnk.institutkurde.org/images/pdf/TGHVQ3DFRA.pdf
     title: The Old Social Classes and the Revolutionary Movements of Iraq
     author: Hanna Batatu
-    year: "2004"
+    year: "1978"
     type: Book (Recommended)
   - title: The Rise and Fall of the Communist Party of Iraq
     author: Tareq Y. Ismael
