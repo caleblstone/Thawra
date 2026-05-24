@@ -14,7 +14,7 @@ shortDescription: Abdel and Dan anatomize Saudi Arabia, a country whose
 readings:
   - title: The History of Saudi Arabia
     type: Book (Recommended)
-    author: Alexei Vasiliev
+    author: Alexei Vassiliev
     url: https://saqibooks.com/books/saqi/the-history-of-saudi-arabia/
     year: "2000"
   - url: https://www.scribd.com/document/599166300/A-History-of-Saudi-Arabia-Madawi-al-Rasheed-z-lib-org
@@ -22,7 +22,8 @@ readings:
     author: Madawi al-Rasheed
     year: "2002"
     type: Book (Recommended)
-  - title: A Counter-revolutionary State
+  - title: "A Counter-Revolutionary State: Popular Movements and the Making of Saudi
+      Arabia"
     author: Rosie Bsheer
     url: https://academic.oup.com/past/article-abstract/238/1/233/4791154?redirectedFrom=fulltext#no-access-message
     year: "2018"
@@ -59,7 +60,7 @@ discussionQuestions:
       radicalism detailed in this episode? "
   - question: Why did the conservatives win out?
   - question: Today, these gulf monarchies are some of the main drivers of
-      ravanchism in the region and world – RFS, Libya, the humanitarian
+      revanchism in the region and world – RFS, Libya, the humanitarian
       catastrophe in Yemen, etc – what makes them so powerful as actors and why
       are their interests tilting in the way they do
   - question: How should we theorize and understand the Gulf powers - as capital’s
