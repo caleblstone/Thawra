@@ -31,7 +31,7 @@ readings:
     author: Rosemary Sayigh
     url: https://annas-archive.gl/md5/f11b57f5733558b2f3e392706ba4cf35
     type: Book (Recommended)
-    year: "2008"
+    year: "1979"
   - title: Light the Road of Freedom
     author: Sahbaa Al-Barbari
     year: "2021"
