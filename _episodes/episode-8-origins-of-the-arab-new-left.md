@@ -25,7 +25,7 @@ readings:
     year: "2020"
     url: https://archive.org/details/document_20260113
   - title: '"Political Praxis in the Gulf: Ahmad al-Khatib and the Movement of Arab
-      Nationalists, 1948-1969” in Arabic Thought Against The Authoritarian Age,
+      Nationalists, 1948-1969” in Arabic Thought against the Authoritarian Age,
       eds. Jens Hanssen and Max Weiss'
     author: Abdel Razzaq Takriti
     url: https://vdoc.pub/download/arabic-thought-against-the-authoritarian-age-towards-an-intellectual-history-of-the-present-6j3egi0evpm0
