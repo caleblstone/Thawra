@@ -19,8 +19,8 @@ readings:
     year: "1997"
     type: Book (Recommended)
     url: https://archive.org/details/notes-from-the-minefield-united-states-intervention-in-lebanon-1945-
-  - title: "Survival in an Age of Revolution: Charles Malik, Philo-Colonialism, and
-      Global Counterrevolution"
+  - title: '"Survival in an Age of Revolution": Charles Malik, Philo-Colonialism,
+      and Global Counterrevolution in the American Historical Review'
     author: "Nathaniel George "
     url: https://academic.oup.com/ahr/article/130/2/600/8158910?login=false
     type: Journal Article (Recommended)
@@ -67,8 +67,9 @@ readings:
     url: https://www.scribd.com/document/491565479/The-Cold-War-and-the-Middle-East-pdf
     type: Book (Supplementary)
     year: "1997"
-  - title: "1958 Reconsidered: State Formation and the Cold War in the Early
-      Postcolonial Arab Middle East"
+  - title: '"1958 Reconsidered: State Formation and the Cold War in the Early
+      Postcolonial Arab Middle East" in the International Journal of Middle East
+      Studies'
     url: https://www.jstor.org/stable/43303030
     author: Cyrus Schayegh
     year: "2013"
