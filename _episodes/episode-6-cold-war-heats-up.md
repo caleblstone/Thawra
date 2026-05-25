@@ -77,7 +77,8 @@ discussionQuestions:
       What does that suggest about politics? "
   - question: "How do these political developments in the Mashriq compare and
       contrast to the situation of French colonies in North Africa, or
-      Indochina, or the stirrings of African independence in subsara? "
+      Indochina, or the stirrings of African independences in Sub-Saharan
+      Africa? "
 spotifyLink: https://open.spotify.com/episode/5KRuCKXFoAxXDskkqIT8cG?si=c50a7f1ef2cf41e2
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664742011
 audioLink: https://content.blubrry.com/thedig/The_Dig-EP_440-Takriti.mp3
