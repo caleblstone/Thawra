@@ -6,7 +6,7 @@ description: " “Palestine on the Road to Revolution” covers the creation of 
   Palestinian national liberation movement throughout the 1950s by a people
   dispersed by the Nakba: organizations, alliances, and theories of change
   assembled in the universities, cities, and refugee camps surrounding
-  Palestine. We end with the 1958/59 foundation of Fateh, an organization that
+  Palestine. We end with the 1958/59 foundation of Fatah, an organization that
   eventually became the largest in the Palestinian political system, primarily
   focusing on the idea of launching an armed revolution as the pathway to
   liberating Palestine. This is the story of the beginning of the Palestinian
