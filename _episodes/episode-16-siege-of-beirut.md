@@ -33,7 +33,7 @@ readings:
     year: "2013"
     type: Interview (Supplementary)
     url: https://learnpalestine.qeh.ox.ac.uk/uploads/sources/588c9cd7d7603.pdf
-  - title: The War in Lebanon
+  - title: '"The War in Lebanon" in Middle East Report'
     author: James Paul and Joe Stork
     year: "1982"
     url: https://www.merip.org/1982/09/the-war-in-lebanon/?utm_source=chatgpt.com
