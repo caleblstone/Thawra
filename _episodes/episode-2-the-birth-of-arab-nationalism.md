@@ -48,19 +48,19 @@ discussionQuestions:
       who led them, and what was the composition of the movement – both
       sociologically and politically?"
   - question: "The Great Revolts provided a political backdrop to the development of
-      a range of modern ideologies: how is Abed the relationship between the
-      great strikes and upheavals of the period and the intellectual currents
-      that ran alongside them? "
+      a range of modern ideologies: how does Abed describe the relationship
+      between the great strikes and upheavals of the period and the intellectual
+      currents that ran alongside them? "
   - question: "How would you describe the relationship between radical ideologies
       and contemporary movements today? "
-  - question: "What else was happening in the world through 1936-1939: what are
-      there parallels or points of divergence between these Great Revolts and
-      the sit-down strikes in the United States, the Popular Fronts of Western
+  - question: "What else was happening in the world through 1936-1939: what are the
+      parallels or points of divergence between these Great Revolts and the
+      sit-down strikes in the United States, the Popular Fronts of Western
       Europe, the Spanish Civil War, and the long march through the Chinese
       countryside? "
-  - question: "What were the similarities and what are the differences between the
-      “ideological colorations” emerging in the wake of the Great Revolts: Arab
-      nationalism, Islamic resistance, Ba’athism, and communism?"
+  - question: "What were the similarities and differences between the “ideological
+      colorations” emerging in the wake of the Great Revolts: Arab nationalism,
+      Islamic resistance, Ba’athism, and communism?"
   - question: "What made the new “ideological colorations” different from the
       patterns of resistance that preceded them? "
 spotifyLink: https://open.spotify.com/episode/4InK6cIxr6ECLPCUd1G1We?si=0e166817aca74ef9
