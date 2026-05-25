@@ -20,9 +20,9 @@ readings:
     author: Khaled Hroub
     year: "2000"
     type: Book (Recommended)
-  - author: Rasmus Elling & Sune Haugbølle (eds.)
+  - author: Rasmus Elling & Sune Haugbolle (eds.)
     title: "The Fate of Third Worldism in the Middle East: Iran, Palestine and Beyond"
-    url: https://www.simonandschuster.com/books/The-Fate-of-Third-Worldism-in-the-Middle-East/Rasmus-C-Elling/Radical-Histories-of-the-Middle-East/9780861547289
+    url: https://oneworld-publications.com/work/the-fate-of-third-worldism-in-the-middle-east/
     type: Book (Recommended)
     year: "2024"
   - title: "Revolution and its Discontents: Political Thought and Reform in Iran"
@@ -31,8 +31,9 @@ readings:
     author: Eskandar Sadeghi-Boroujerdi
     type: Book (Recommended)
   - author: Abdel Razzaq Takriti
-    title: "The Kurds and the Wind: the politics and poetics of Palestinian-Kurdish
-      affiliation"
+    title: '"The Kurd and the Wind: The Politics and Poetics of Palestinian–Kurdish
+      Affiliation" in The Political and Cultural History of the Kurds, ed. Amir
+      Harrak'
     year: "2022"
     type: Book chapter (Recommended)
     url: https://www.peterlang.com/document/1062267
@@ -47,7 +48,7 @@ readings:
     year: "2022"
     type: Podcast
     url: https://thedigradio.com/History%20of%20Iran/
-  - title: The Morning After
+  - title: '"The Morning After" in the London Review of Books'
     author: Edward Said
     year: "1993"
     url: https://www.lrb.co.uk/the-paper/v15/n20/edward-said/the-morning-after
@@ -74,8 +75,8 @@ discussionQuestions:
       what marks out its differences?  What framework for you seems most
       appropriate to describe this transition: eclipse, transformation,
       succession, or something else entirely? "
-  - question: "Why did Edward Said call Oslo the Palestinian Verseille? Do you agree
-      with his assessment? What were the consequences of Oslo for the
+  - question: "Why did Edward Said call Oslo the Palestinian Versailles? Do you
+      agree with his assessment? What were the consequences of Oslo for the
       Palestinian national movement? What were the consequences for the region
       more broadly? "
   - question: "What were the historical forces that led to a rolling back of
