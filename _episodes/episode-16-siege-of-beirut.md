@@ -15,7 +15,7 @@ shortDescription: "This final episode of the main series traces a massive defeat
 readings:
   - title: "Memory for Forgetfulness: August, Beirut, 1982"
     author: Mahmoud Darwish
-    year: "1982"
+    year: "1987"
     type: Primary source (Recommended)
     url: https://archive.org/details/memory-for-forgetfulness-august-beirut-1982
   - title: "Sabra and Shatila: September 1982"
@@ -44,7 +44,7 @@ readings:
     type: Book (Supplementary)
     url: https://annas-archive.gl/md5/57da4b01678d6d7f067cf421505ab5a3
   - title: Leila and the Wolves
-    author: Henry Srour
+    author: Heiny Srour
     type: Documentary (Supplementary)
     url: https://www.ovid.tv/videos/leila-and-the-wolves
     year: "1984"
