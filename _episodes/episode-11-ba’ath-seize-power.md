@@ -48,7 +48,7 @@ discussionQuestions:
       state power. What changes in the course of these transformations and where
       does that leave Ba’ath ideology by the end of this episode? What social
       forces or institutional arrangements produce this outcome? "
-  - question: "The Communists in Iraq were torn between a break with Qassim and a
+  - question: "The Communists in Iraq were torn between a break with Qasim and a
       rallying around him against reactionary forces. Why did either side take
       the position that it did? Does this dilemma feel familiar in other
       political contexts? "
