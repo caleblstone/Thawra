@@ -33,13 +33,13 @@ readings:
     year: "1981"
     type: Book (Recommended)
     url: https://archive.org/details/my-home-my-land-a-narrative-of-the-palestinian-struggle-0812909364-9780812909364_compress
-  - title: "The Politics of Dispossession: the Struggle for Palestinian
+  - title: "The Politics of Dispossession: The Struggle for Palestinian
       Self-Determination, 1969 - 1994"
     author: Edward Said
     year: "1994"
     type: Book (Supplemental)
     url: https://www.rahs-open-lid.com/wp-content/uploads/2024/01/Said-Edward-W.-The-Politics-of-Dispossession_-The-Struggle-for-Palestinian-Self-Determination-1969-1994-Vintage-2012.pdf
-  - title: 1970 - The Last Days
+  - title: "1970: The Last Days"
     author: Sonallah Ibrahim
     url: https://press.uchicago.edu/ucp/books/book/distributed/Other/bo208646398.html
     year: "2024"
@@ -66,7 +66,7 @@ discussionQuestions:
       How would you describe the relationships between the PLO and these
       governments and polities? "
   - question: George Habash said that the road to Palestinian liberation runs
-      through the Arab capitols, or, in other words, is ultimately a regional
+      through the Arab capitals, or, in other words, is ultimately a regional
       struggle which depends on the power marshalled outside of the occupied
       territories. Does the historical experience of this episode seem to
       confirm or complicate that story?
