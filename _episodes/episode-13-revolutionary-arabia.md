@@ -5,7 +5,7 @@ title: Revolutionary Arabia
 description: "“Revolutionary Arabia” chronicles the armed left-wing
   revolutionary movements that challenged British imperial power across Southern
   Arabia, from the National Liberation front seizing power in South Yemen to the
-  Dhufari revolutionaries in Oman waging a liberation war against the British
+  Dhofari revolutionaries in Oman waging a liberation war against the British
   and the sultan. While today’s alliance of reactionary Gulf monarchies seems
   inevitable, here we see they were made by colonial power–and that they were
   seriously contested by revolutionary movements in the 1960s and 1970s. "
@@ -63,7 +63,7 @@ readings:
     year: "1974"
 discussionQuestions:
   - question: What was the relationship between local conservative power and
-      far-flung imperial power? Why was the former so dependent on the latter
+      far-flung imperial power? Why was the former so dependent on the latter?
   - question: Why were the struggles against monarchies in the Gulf so belated and
       slow compared to the struggles against the Hashemites in the core of the
       Mashriq?
