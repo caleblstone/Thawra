@@ -4,7 +4,7 @@ number: 14
 title: Palestinian Revolution
 description: "We cover the rise of the Palestinian Revolution and then its
   explosion after the Arab defeat in the June War of 1967 with the Israeli
-  colonial state. Fateh, the Popular Front for Liberation and Palestine, and
+  colonial state. Fateh, the Popular Front for the Liberation of Palestine, and
   other factions launched an armed guerilla struggle, engaging the Palestinian
   people in a full-scale mobilization for their liberation. Also: Ba’athists
   Ahmad Hasan al-Bakr and Saddam Hussein seized power in Iraq, as did Muammar
@@ -90,7 +90,7 @@ discussionQuestions:
       or distant from contemporary concerns in your local context? Or for the
       region today? "
   - question: "How would you appraise the political character of this next
-      generation of junior officer coups that roil the region: al-Bakr, Hussain,
+      generation of junior officer coups that roil the region: al-Bakr, Hussein,
       Gaddafi. Ultimately progressive, revanchist, or something else entirely? "
   - question: "What does their emergence signal about the shape of radical mass
       politics in the region at the time? "
