@@ -15,9 +15,9 @@ shortDescription: >
   movement expose about the reality of the Zionist project and indigenous
   resistance to that project in post-Oslo Palestine?
 readings:
-  - title: Justice as the Way Forward
+  - title: '"Justice as the Way Forward" in Where Now for Palestine? '
     author: Karma Nabulsi
-    year: "2006"
+    year: "2007"
     type: Book Chapter
     url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://monoskop.org/images/palestine/Jamil%20Hilal/Where%20Now%20for%20Palestine__%20The%20Demise%20of%20the%20Two-State%20Solution%20(112)/Where%20Now%20for%20Palestine__%20The%20Demise%20of%20th%20-%20Jamil%20Hilal.pdf
   - title: "Law and Revolution: Legitimacy and Constitutionalism After the Arab
@@ -32,7 +32,8 @@ readings:
     year: "2023"
     type: Book
   - author: Sara Ababneh
-    title: "Troubling the Political: Women in the Jordanian Day-Waged Labor Movement"
+    title: '"Troubling the Political: Women in the Jordanian Day-Waged Labor
+      Movement" in the International Journal of Middle East Studies'
     type: Journal Article
     url: https://www.jstor.org/stable/43998792
     year: "2016"
