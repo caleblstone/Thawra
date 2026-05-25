@@ -62,7 +62,7 @@ readings:
     year: "1967"
     type: Primary source (Supplemental)
     author: PFLP
-  - title: What is the PLO?
+  - title: '"What is the PLO?" in the Journal of Palestine Studies'
     author: Rashid Hamid
     url: https://www.palquest.org/sites/default/files/What_is_the_PLO-Rashid_Hamid.pdf
     type: Journal article (Supplemental)
