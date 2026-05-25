@@ -5,9 +5,9 @@ title: Palestinian Revolution
 description: "We cover the rise of the Palestinian Revolution and then its
   explosion after the Arab defeat in the June War of 1967 with the Israeli
   colonial state. Fateh, the Popular Front for the Liberation of Palestine, and
-  other factions launched an armed guerilla struggle, engaging the Palestinian
+  other factions launched an armed guerrilla struggle, engaging the Palestinian
   people in a full-scale mobilization for their liberation. Also: Ba’athists
-  Ahmad Hasan al-Bakr and Saddam Hussein seized power in Iraq, as did Muammar
+  Ahmad Hassan al-Bakr and Saddam Hussein seized power in Iraq, as did Muammar
   Gaddafi’s Free Officers in Libya. "
 shortDescription: "The Palestinian Revolution and then its explosion after the
   Arab defeat in the June War of 1967 with the Israeli colonial state. Fateh,
