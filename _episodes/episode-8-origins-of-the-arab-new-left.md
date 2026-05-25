@@ -49,8 +49,8 @@ readings:
 discussionQuestions:
   - question: "Who were the ideological and political mentors of the Movement of
       Arab Nationalists? What stamp did they put on the movement? "
-  - question: What role or influence did 19th century European nationalism have on
-      Arab new left?
+  - question: What role or influence did 19th-century European nationalism have on
+      Arab New left?
   - question: "What was the basis of the political differences at this stage between
       the Movement of Arab Nationalists and the Ba’ath movement? How did this
       relationship evolve over the years? "
