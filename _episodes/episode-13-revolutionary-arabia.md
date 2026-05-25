@@ -20,7 +20,8 @@ readings:
     type: Book (Recommended)
     year: "2013"
     url: https://global.oup.com/academic/product/monsoon-revolution-9780198783176
-  - title: Colonial Coups and the War on Popular Sovereignty
+  - title: '"Colonial Coups and the War on Popular Sovereignty" in the American
+      Historical Review'
     author: Abdel Razzaq Takriti
     year: "2019"
     type: Journal article (Recommended)
