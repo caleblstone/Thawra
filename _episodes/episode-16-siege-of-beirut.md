@@ -6,7 +6,7 @@ description: "This final episode of the main series traces a massive defeat of
   the Palestinian Revolution: Israel’s 1982 invasion of Lebanon and the brutal
   siege of Beirut. Under severe pressure and isolated in the wake of Egypt’s
   normalization with Israel, the PLO evacuated its headquarters in Lebanon. What
-  followed was an unthinkable large massacre of Palestinian civilians and an end
+  followed was an unthinkably large massacre of Palestinian civilians and an end
   to the decades-long era of Arab revolutionary politics that Thawra was
   dedicated to chronicling."
 shortDescription: "This final episode of the main series traces a massive defeat
@@ -56,7 +56,7 @@ readings:
     author: Sean MacBride et al.
     url: https://www.palestine-studies.org/sites/default/files/attachments/jps-articles/2536156.pdf
 discussionQuestions:
-  - question: Why does the siege of Beirut mark the end of the period we’re discussing
+  - question: Why does the siege of Beirut mark the end of the period we’re discussing?
   - question: What are the main factions and fault-lines in this Lebanese civil war?
       Did anything about the alliances or tensions constructed surprise you?
   - question: Why does the existence of a large Palestinian population in Lebanon
