@@ -29,8 +29,9 @@ readings:
     year: "2025"
     type: Book (Recommended)
     url: https://dokumen.pub/harvests-of-liberation-cotton-capitalism-and-the-end-of-empire-in-egypt-1nbsped-1503640086-9781503640085-9781503642799-9781503642805.html
-  - title: "Women in the 1919 Egyptian Revolution: From Feminist Awakening to
-      Nationalist Political Activism"
+  - title: "\"Women in the 1919 Egyptian Revolution: From Feminist Awakening to
+      Nationalist Political Activism\" in the Journal of International Women's
+      Studies"
     author: Nabila Ramdani
     type: Article (Supplementary)
     year: "2013"
