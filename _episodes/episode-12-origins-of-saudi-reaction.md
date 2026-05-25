@@ -22,8 +22,8 @@ readings:
     author: Madawi al-Rasheed
     year: "2002"
     type: Book (Recommended)
-  - title: "A Counter-Revolutionary State: Popular Movements and the Making of Saudi
-      Arabia"
+  - title: '"A Counter-Revolutionary State: Popular Movements and the Making of
+      Saudi Arabia" in Past and Present'
     author: Rosie Bsheer
     url: https://academic.oup.com/past/article-abstract/238/1/233/4791154?redirectedFrom=fulltext#no-access-message
     year: "2018"
@@ -33,8 +33,8 @@ readings:
     year: "2020"
     url: https://www.sup.org/books/middle-east-studies/graveyard-clerics
     type: Book (Supplementary)
-  - title: "The Arabian Peninsula Opposition Movements "
-    author: MERIP
+  - title: '"The Arabian Peninsula Opposition Movements" in Middle East Report'
+    author: MERIP Editors
     year: "1985"
     type: Journal article (Supplementary)
     url: https://www.merip.org/1985/02/the-arabian-peninsula-opposition-movements/?utm_source=chatgpt.com
