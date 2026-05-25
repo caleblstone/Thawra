@@ -18,7 +18,7 @@ readings:
     url: https://annas-archive.gl/md5/a1ed7ecd97ce170763a1e714469fa12c
   - url: https://newleftreview.org/issues/i45/articles/eric-rouleau-the-syrian-enigma-what-is-the-baath.pdf
     type: Article (Recommended)
-    title: "The Syrian Enigma: What Is the Baath?"
+    title: '"The Syrian Enigma: What Is the Baath?" in New Left Review'
     author: Eric Rouleau
     year: "1967"
   - title: Al Yazerli
