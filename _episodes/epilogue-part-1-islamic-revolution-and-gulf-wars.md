@@ -71,8 +71,8 @@ readings:
 discussionQuestions:
   - question: "This episode chronicles the emergence of a specific Shia strand
       of  revolutionary thought: what seems the same about this transformation
-      in 12er shiism and the arab radicalism we’ve been discussing earlier and
-      what marks out its differences?  What framework for you seems most
+      in Twelver Shiism and the Arab radicalism we’ve been discussing earlier
+      and what marks out its differences?  What framework for you seems most
       appropriate to describe this transition: eclipse, transformation,
       succession, or something else entirely? "
   - question: "Why did Edward Said call Oslo the Palestinian Versailles? Do you
