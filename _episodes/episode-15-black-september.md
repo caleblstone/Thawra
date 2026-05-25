@@ -4,13 +4,13 @@ number: 15
 title: Black September
 description: "We address the Palestinian revolution in Lebanon, Syria, and
   Jordan–leading up to the 1970 conflict that the national movement had with the
-  Jordanian state and the violent expulsion of PLO guerillas that followed
+  Jordanian state and the violent expulsion of PLO guerrillas that followed
   during Black September. Then, Egypt and Syria checked Israel’s power in the
   October War of 1973–only for Anwar Sadat, Nasser’s successor, to lead Egypt
   into Kissinger’s plan to pacify the Arab revolution. "
 shortDescription: We address the Palestinian revolution in Lebanon, Syria, and
   Jordan–leading up to the 1970 conflict that the national movement had with the
-  Jordanian state and the violent expulsion of PLO guerillas that followed
+  Jordanian state and the violent expulsion of PLO guerrillas that followed
   during Black September.
 readings:
   - title: The Palestinian Revolution
@@ -79,7 +79,7 @@ discussionQuestions:
       basis of Abed’s recounting? What information, context, and concrete
       analysis would you need to evaluate the claims of different tendencies in
       the moment? "
-  - question: What was the political aftershocks of Black September in Jordan for
+  - question: What were the political aftershocks of Black September in Jordan for
       Beirut, for the region as a whole?
   - question: "What was the American imperial strategy in this period? What is new
       about it, what seems to be the same? "
