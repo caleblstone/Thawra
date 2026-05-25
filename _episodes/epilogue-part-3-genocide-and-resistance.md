@@ -26,14 +26,14 @@ readings:
     year: "2025"
     url: https://newleftreview.org/sidecar/posts/culmination
     type: Magazine Article
-  - title: Who Will Hang the Bell?
+  - title: '"Who Will Hang the Bell?" in the Journal of Palestine Studies'
     year: "2021"
     type: Journal Article (Recommended)
     author: Abdel Razzaq Takriti
     url: https://www.jstor.org/stable/48746404
   - url: https://www.tandfonline.com/doi/full/10.1080/14623528.2024.2351261
-    title: "A Threshold Crossed: On Genocidal Intent and the Duty to Prevent
-      Genocide in Palestine"
+    title: '"A Threshold Crossed: On Genocidal Intent and the Duty to Prevent
+      Genocide in Palestine" in the Journal of Genocide Research'
     author: Nimer Sultany
     year: "2024"
     type: Journal Article (Recommended)
