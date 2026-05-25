@@ -82,7 +82,7 @@ discussionQuestions:
       responsibility? "
   - question: "Nasser came to power in a junior officer coup in 1952. What were the
       crises within Egypt, and the region as a whole, that the coup was
-      responding to. What answers did it provide or propose for these crises? "
+      responding to? What answers did it provide or propose for these crises? "
   - question: "What were the mechanisms that tied local governments to British
       imperial interests in this period, in Iraq, Jordan and the other
       monarchies? "
