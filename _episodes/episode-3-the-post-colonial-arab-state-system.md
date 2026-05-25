@@ -59,7 +59,7 @@ readings:
     url: https://annas-archive.gl/md5/f56f97fbfa21a00e1964ab2d996a1dec
 discussionQuestions:
   - question: "What were the dominant forms of French and British colonial rule in
-      the years following world war 1? "
+      the years following World War 1? "
   - question: "How were these forms shaped by “open revolts” against the mandate
       system? How did such revolts reconfigure the operation of power in the
       region? "
@@ -67,9 +67,9 @@ discussionQuestions:
       the region? "
   - question: What social forces helped draw the map of the Middle Eastern Arab
       state system after the departure of the British and French?
-  - question: "This episode mostly surveys different geographic regions, countries:
-      where does the regional balance of power lie at this moment? Does that map
-      look different from how it might be drawn in the 2020s? "
+  - question: "This episode mostly surveys different geographic regions and
+      countries: where does the regional balance of power lie at this moment?
+      Does that map look different from how it might be drawn in the 2020s? "
 spotifyLink: https://open.spotify.com/episode/02n6YWlYzwLscqWtJLP3QL?si=26c1cddc282c44d7
 appleLink: https://podcasts.apple.com/us/podcast/thawra/id1761860819?i=1000664741966
 audioLink: https://content.blubrry.com/thedig/The_Dig-EP_437-Takriti.mp3
